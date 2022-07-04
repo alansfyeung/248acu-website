@@ -25,7 +25,7 @@ url                      : "https://armycadets.sydney"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo/248acu-logo.png
 masthead_title           : "248 Army Cadet Unit"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "248 ACU"
-  avatar           : "/assets/images/avatar/248acu.jpg"
+  avatar           : "/assets/images/logo/248acu-outline.jpg"
   bio              : "Established 2022"
   location         : "Victoria Barracks, Sydney"
   email            : "248acu@armycadets.gov.au"
@@ -218,10 +218,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -286,9 +286,8 @@ defaults:
       type: posts
     values:
       layout: single
-      wide: true
       author_profile: false
       read_time: false
-      comments: # true
+      comments: false # true
       share: true
-      related: true
+      related: false
