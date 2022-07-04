@@ -157,6 +157,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - "*.gemspec"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
