@@ -1,0 +1,21 @@
+{
+  "name": "248acu-website",
+  "version": "0.1.0",
+  "description": "248 ACU static website",
+  "main": "index.js",
+  "scripts": {
+    "serve": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "up": "aws s3 sync _site s3://armycadets.sydney --acl public-read"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansfyeung/248acu-website.git"
+  },
+  "author": "AY",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alansfyeung/248acu-website/issues"
+  },
+  "homepage": "https://github.com/alansfyeung/248acu-website#readme"
+}
