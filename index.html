@@ -1,7 +1,29 @@
 ---
 layout: home
+# tagline: Hello there
+title: " "
 header:
-  overlay_image: assets/images/home/banner.jpg
+  overlay_image: assets/images/home/248acu-victoria-barracks.jpg
+feature_row:
+  - image_path: /assets/images/home/248acu-about-army-cadets.jpg
+    alt: "placeholder image 1"
+    title: "About Army Cadets"
+    excerpt: "What do Army Cadets do?"
+    img_url: /about/
+  - image_path: /assets/images/home/248acu-how-to-join-cadets.jpg
+    alt: "placeholder image 2"
+    title: "How to Join Cadets"
+    excerpt: "Join 248 ACU or transfer to our unit"
+    img_url: /join/
+  - image_path: /assets/images/home/248acu-adult-volunteer.jpg
+    title: "Become a volunteer"
+    excerpt: "248 ACU is run by adult volunteer leaders"
+    img_url: /volunteer/
+entries_layout: grid  # for the news
 ---
 
-248 Army Cadet Unit is located at Victoria Barracks, Sydney in Paddington and accepts young men and women aged 13-18 from the local community. 
+<article class="headlines" style="margin-bottom: 2em;">
+  <h4 style="font-size: 1.1em">248 Army Cadet Unit is located at Victoria Barracks, Sydney in Paddington and accepts members from the local community aged 13-18.</h4>
+</article>
+
+{% include feature_row %}

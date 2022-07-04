@@ -7,6 +7,10 @@
 /* Variables */
 @import "minimal-mistakes/variables";
 
+/* Variable overrides (temp location) */
+$global-font-family: $times;
+$caption-font-family: $times;
+
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
