@@ -2,6 +2,9 @@
 layout: single
 title: About Army Cadets and 248 Army Cadet Unit
 permalink: /about/
+categories: info
+header:
+  teaser: /assets/images/home/248acu-about-army-cadets.jpg
 ---
 
 ## What is cadets?

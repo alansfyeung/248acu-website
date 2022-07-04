@@ -85,5 +85,10 @@
 }
 
 .page__footer-acknowledgement {
+  padding: 10px 15px;
+  border-radius: 4px;
+  color: $footer-background-color;
+  background: $primary-color;
+  margin: 1em 0;
   font-size: $type-size-6;
 }

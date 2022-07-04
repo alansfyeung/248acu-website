@@ -1,4 +1,6 @@
 # Well-known hyperlinks
-248acu_find_a_unit_page: https://www.armycadets.gov.au/find-a-unit/unit?ua=248ACU
+248acu_find_a_unit_page_url: https://www.armycadets.gov.au/find-a-unit/unit?ua=248ACU
 cadet_eoi_url: https://m.cadetnet.gov.au/v5m/eoi/UI/index.html#/eoi/cadet?unit=248ACU
 acs_eoi_url: https://m.cadetnet.gov.au/v5m/eoi/UI/index.html#/eoi/adult?ServiceId=2&unit=248ACU
+aac_join_url: https://www.armycadets.gov.au/join/
+aac_volunteer_url: https://www.armycadets.gov.au/volunteer/
