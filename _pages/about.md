@@ -1,12 +1,14 @@
 ---
 layout: single
-title: About Army Cadets and 248 Army Cadet Unit
+title: About Army Cadets
+tagline: What is cadets and what do we do?
 permalink: /about/
 categories: info
 header:
+  overlay_image: /assets/images/pages/cadets-afx.jpg
+  overlay_filter: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,.1) 100%)
   teaser: /assets/images/home/248acu-about-army-cadets.jpg
 ---
-
 ## What is cadets?
 
 Army Cadets is Australia's leading youth development activity, fostering skills and leadership aligned with Army and Defence values. The Australian Army Cadets (AAC) is one of three services in the Australian Defence Force Cadets (ADFC). 
@@ -23,3 +25,7 @@ The name "Gadigal" is the name of the indigenous people whose ancestral lands in
 
 - Visit [248 ACU's Facebook Page](https://www.facebook.com/248acu)
 - Connect with [22 AAC Bn's Facebook Page](https://www.facebook.com/22aacbn)
+
+{% assign map_asset_url = "/assets/images/pages/248acu-vbs-map.jpg" | absolute_url %}
+{% include figure image_path=map_asset_url alt="Map of 248 ACU location" caption="© OpenStreetMap contributors" %}
+
