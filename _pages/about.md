@@ -17,9 +17,9 @@ Army Cadets is Australia's leading youth development activity, fostering skills 
 
 ## About 248 Army Cadet Unit City of Sydney (Gadigal)
 
-Established in 2022, 248 ACU is a community-based cadet unit at Victoria Barracks, Sydney. Anyone aged 13-17 may join the unit, regardless of what school you go to or which area you come from. 
+Established in 2022, 248 ACU is a community-based cadet unit at Victoria Barracks, Sydney. Anyone aged 13-16 may join the unit, regardless of what school you go to or which area you come from. 
 
-The name "Gadigal" is the name of the indigenous people whose ancestral lands included the area upon which Victoria Barracks, Sydney is located. Permission was granted in 2022 by the Local Aboriginal Land Council to use the name.
+"Gadigal" is the name of the indigenous people whose ancestral lands included the area upon which Victoria Barracks, Sydney is located. Permission was granted in 2022 by the Local Aboriginal Land Council to use the name for 248 ACU.
 
 248 ACU parades during the school term, weekly on Tuesday nights. It is part of 22 AAC Battalion, in the NSW Australian Army Cadet Brigade. 
 
