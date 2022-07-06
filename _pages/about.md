@@ -23,8 +23,9 @@ Established in 2022, 248 ACU is a community-based cadet unit at Victoria Barrack
 
 248 ACU parades during the school term, weekly on Tuesday nights. It is part of 22 AAC Battalion, in the NSW Australian Army Cadet Brigade. 
 
-- Visit [248 ACU's Facebook Page](https://www.facebook.com/248acu)
-- Connect with [22 AAC Bn's Facebook Page](https://www.facebook.com/22aacbn)
+- Visit [248 ACU's Facebook Page](https://www.facebook.com/248acu){:target="_blank"}
+- Connect with [22 AAC Bn's Facebook Page](https://www.facebook.com/22aacbn){:target="_blank"}
+- Read about [Victoria Barracks, Sydney](https://www.defence.gov.au/about/base-locations/victoria-barracks-sydney){:target="_blank"}
 
 {% assign map_asset_url = "/assets/images/pages/248acu-vbs-map.jpg" | absolute_url %}
 {% include figure image_path=map_asset_url alt="Map of 248 ACU location" caption="© OpenStreetMap contributors" %}
