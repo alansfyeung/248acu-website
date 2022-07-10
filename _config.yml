@@ -79,6 +79,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+head_scripts:
+  - assets/js/google-analytics.js
+  - assets/js/tiktok-pixel.js
+
 # Social Sharing
 twitter:
   username               :
