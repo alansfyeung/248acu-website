@@ -82,6 +82,7 @@ baidu_site_verification  :
 head_scripts:
   - assets/js/google-analytics.js
   - assets/js/tiktok-pixel.js
+  - assets/js/facebook-pixel.js
 
 # Social Sharing
 twitter:
