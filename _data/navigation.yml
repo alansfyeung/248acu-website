@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "📅 Term 3 Open Day"
-    url: /2022/07/july-2022-open-days/
-    description: Term 3 2022 open days
-    classes: ""
+  - title: "About Army Cadets"
+    url: /about/
   - title: "Join Cadets"
     url: /join/

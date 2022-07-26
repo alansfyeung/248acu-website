@@ -13,7 +13,7 @@ header:
 
 Army Cadets is Australia's leading youth development activity, fostering skills and leadership aligned with Army and Defence values. The Australian Army Cadets (AAC) is one of three services in the Australian Defence Force Cadets (ADFC). 
 
-[Find out more about Army Cadets](https://www.armycadets.gov.au){: .btn .btn--primary}
+[Frequently Asked Questions]({% link _pages/faq.md %}){: .btn .btn--primary}
 
 ## About 248 Army Cadet Unit City of Sydney (Gadigal)
 
@@ -33,3 +33,10 @@ Established in 2022, 248 ACU is a community-based cadet unit at Victoria Barrack
 {% include figure image_path=map_asset_url alt="Map of 248 ACU location" caption="© OpenStreetMap contributors" %}
 {% endcomment %}
 
+## What activities do cadets do? 
+
+The Australian Army Cadets (AAC) program allows youth to undertake core military-like activities such as navigation, drill, first aid, field craft, radio communications, survival techniques and safety. Cadets can also elect to participate in activities such as abseiling, watermanship and archery. 
+
+Army Cadets are provided with excellent opportunities to develop individual self-esteem, leadership, initiative, and problem solving in a safe, challenging and fun environment.
+
+Army Cadets are encouraged to embrace the values learned in the AAC and apply them to their everyday lives in order to be better citizens. Our core values are: Service, Courage, Respect, Integrity and Excellence. 
