@@ -1,0 +1,11 @@
+<figure class="badge-of-rank">
+    {% if include.rank %}
+    {% assign badge_of_rank_url = "/assets/images/badges-of-rank/slides/" | append: include.rank | append: ".jpg" | absolute_url %}
+    <img class="badge-of-rank__image" src="{{badge_of_rank_url}}" alt="Badge of rank for {{include.rank | upcase}}">
+    {% else %}
+    <span class="badge-of-rank__image--not-available">No badge of rank</span>
+    {% endif %}
+    {% if include.caption %}
+    <figcaption class="badge-of-rank__caption">{{include.caption}}</figcaption>
+    {% endif %}
+</figure>

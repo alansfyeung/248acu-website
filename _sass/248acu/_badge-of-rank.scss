@@ -1,0 +1,27 @@
+$badge-of-rank-img-w: 48px;
+$badge-of-rank-img-h: 84px;
+
+.badge-of-rank {
+  display: grid;
+  min-height: $badge-of-rank-img-h;
+
+  grid-template-columns: $badge-of-rank-img-w auto;
+  column-gap: 1rem;
+
+  &__image, &__image--not-available {
+    display: block;
+    width: $badge-of-rank-img-w;
+    height: $badge-of-rank-img-h;
+    margin: 0;
+  }
+
+  &__image--not-available {
+    font-size: $type-size-8;
+    color: $light-gray;
+  }
+   
+  &__caption {
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+  }
+}

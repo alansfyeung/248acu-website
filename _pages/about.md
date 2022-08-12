@@ -31,7 +31,7 @@ Our training program follows the Cadet Development Curriculum, and through regul
 
 ## Promotion up the ranks
 
-During the course of their cadet "careers", cadets will become eligible for promotion. Promotion is exciting, but it does come with leadership responsibilities! Except for Cadet Lance Corporal (CDTLCPL), all ranks require the completion of a week-long Promotion Course in order to qualify for promotion. The highest rank that cadets can reach is Cadet Under Officer (CUO). [Find out more about cadet ranks]({% link _pages/ranks-and-promotion.md %}).
+During the course of their cadet "careers", cadets will become eligible for promotion. Promotion is exciting, but it does come with leadership responsibilities! Except for Cadet Lance Corporal (CDTLCPL), all ranks require the completion of a week-long Promotion Course in order to qualify for promotion. The highest rank that cadets can reach is Cadet Under Officer (CUO). [Find out more about cadet ranks]({% link _pages/ranks-in-the-aac.md %}).
 
 ## Insignia and colours
 
