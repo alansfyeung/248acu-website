@@ -4,3 +4,35 @@ main:
     url: /about/
   - title: "Join Cadets"
     url: /join/
+    
+articles:
+  - title: About
+    children:
+      - title: About Army Cadets
+        url: /about/
+      - title: About 248 ACU
+        url: /unit/
+      - title: Our Leaders
+        url: /team/
+      - title: Frequently Asked Questions
+        url: /faq/
+      - title: Ranks in the Army Cadets
+        url: /faq/
+  - title: Join
+    children:
+      - title: Join Cadets
+        url: /join/
+      - title: Volunteer as an Adult
+        url: /volunteer/
+  - title: Contact
+    children:
+      - title: Contact Us
+        url: /contact/
+      - title: Downloads and Media
+        url: /downloads/
+  - title: News
+    children:
+      - title: By category
+        url: /categories/
+      - title: By tag
+        url: /tags/

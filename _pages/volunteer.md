@@ -6,6 +6,8 @@ excerpt: Join 248 ACU or transfer to this unit
 categories: joining
 header:
   teaser: /assets/images/home/248acu-adult-volunteer.jpg
+sidebar:
+  nav: articles
 ---
 
 The Australian Army Cadets is a community-based organisation that is run by volunteers. Uniformed positions (Officers of Cadets) and non-uniformed positions (Defence Approved Helpers) are both ways in which you can help 248 ACU and contribute to the cadets' experience. 
