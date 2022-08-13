@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About Army Cadets"
-    url: /about/
+  - title: "About Us"
+    url: /unit/
   - title: "Join Cadets"
     url: /join/
+  - title: "Volunteer"
+    url: /volunteer/
     
 articles:
   - title: About

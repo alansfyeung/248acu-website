@@ -27,11 +27,14 @@
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
-          {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {% assign hero_title = page.header.hero_title | default: page.title | default: site.title %}
+          {{ hero_title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-      {% if page.tagline %}
-        <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% if page.header.hero_tagline_image %}
+        <p class="page__lead"><img src="{{ page.header.hero_tagline_image | absolute_url }}" alt="{{ page.header.hero_tagline | default: page.tagline }}"></p>
+      {% elsif page.header.hero_tagline or page.tagline %}
+        <p class="page__lead">{{ page.header.hero_tagline | default: page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
