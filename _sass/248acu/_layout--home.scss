@@ -20,11 +20,18 @@ body.layout--home {
         text-align: center;  // happy accident, this looks pretty cool
         width: 60px * 8;  // Constrain multiple lines
         text-shadow: 0 5px 10px rgba($backdrop-color, .44);
+        @supports (background-clip: text) or (-webkit-background-clip: text) {
+          background: url("/assets/images/home/hero-clip.jpg") no-repeat center center/cover;
+          background-clip: text;
+          -webkit-background-clip: text;
+          text-shadow: none;
+          color: transparent;
+        }
       }
       @include breakpoint($medium) {
         font-size: 90px;
         width: 90px * 8;  // Constrain multiple lines
-        text-shadow: 0 8px 20px rgba($backdrop-color, .44);
+        // text-shadow: 0 8px 20px rgba($backdrop-color, .44);
       }
       @include breakpoint($x-large) {
         font-size: 120px;
