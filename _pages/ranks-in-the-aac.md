@@ -99,11 +99,11 @@ Officers of Cadets<sup>4</sup> are adult volunteers who run activities and admin
 ### Second Lieutenant (2LT(AAC))
 
 {% capture caption_2lt_aac %}
-AAC Second Lieutenants wear an insignia of one pip. They are often appointed to the role of Administration Officer, Quartermaster, or another similar role within their cadet unit. 2LTs (AAC) have completed some of their basic level training (e.g. ADLC Grade 1). 
+AAC Second Lieutenants wear an insignia of one pip. They are often appointed to the role of Administration Officer, Quartermaster, or another similar role within their cadet unit. 
 {% endcapture %}
 {% include badge-of-rank.html rank="2lt-aac" caption=caption_2lt_aac %}
 
-### Second Lieutenant (LT(AAC))
+### Lieutenant (LT(AAC))
 
 {% capture caption_lt_aac %}
 AAC Lieutenants wear an insignia of two pips. They are usually often to the role of Training Officer or Executive Officer within their cadet unit. Sometimes LTs (AAC) may be the Administrative Commander (AC) of their cadet unit, in place of an Officer Commanding (OC).
@@ -143,7 +143,7 @@ AAC Colonels wear an insignia of a Queen's crown atop two pips. It is the rank o
 ### Defence Approved Helper (DAH)
 
 {% capture caption_dah %}
-Defence Approved Helpers assist with cadet activities from time to time, hold no rank and do not wear a uniform. They are to be afforded respect and be referred to by cadets as "Mr, Mrs, Ms/Miss". 
+Defence Approved Helpers assist with cadet activities from time to time, hold no rank and do not wear a uniform. They to be referred to by cadets as "Mr, Mrs, Ms/Miss". 
 {% endcapture %}
 {% include badge-of-rank.html caption=caption_dah %}
 
