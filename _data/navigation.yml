@@ -10,10 +10,10 @@ main:
 articles:
   - title: About
     children:
-      - title: About Army Cadets
-        url: /about/
       - title: About 248 ACU
         url: /unit/
+      - title: About Army Cadets
+        url: /about/
       - title: Our Leaders
         url: /team/
       - title: Frequently Asked Questions
@@ -30,6 +30,8 @@ articles:
     children:
       - title: Contact Us
         url: /contact/
+      - title: Sponsorship
+        url: /sponsor/
       - title: Downloads and Media
         url: /downloads/
   - title: News
