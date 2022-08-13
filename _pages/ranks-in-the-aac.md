@@ -77,7 +77,7 @@ Regional Cadet Under Officers wear an insignia of a lozenge, with a blue centre.
 {% endcapture %}
 {% include badge-of-rank.html rank="rcuo" caption=caption_rcuo %}
 
-### National Cadet Under Officer (NRSM)
+### National Cadet Regimental Sergeant Major (NRSM)
 
 {% capture caption_nrsm %}
 The National Cadet Regimental Sergeant Major wears an insignia of a Coat of Arms, surrounded by a laurel wreath. Usually a single cadet holds this rank, whose position is at National Headquarters (HQ AAC). 
