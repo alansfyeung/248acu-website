@@ -13,6 +13,8 @@ body.layout--home {
       word-spacing: 600px; 
       font-size: 48px;
       line-height: 85%;
+      padding: 8px 10px;
+      position: relative;
       @include breakpoint($small) {
         word-spacing: initial;
         font-size: 60px;
@@ -32,25 +34,21 @@ body.layout--home {
         font-size: 90px;
         width: 90px * 8;  // Constrain multiple lines
         // text-shadow: 0 8px 20px rgba($backdrop-color, .44);
+        &::before {
+          content: "";
+          z-index: -1;
+          display: block;
+          position: absolute;
+          width: 100%;
+          height: 200%;
+          top: -25%;
+          background: radial-gradient(rgba($backdrop-color, .22) 20%, transparent 65%);
+          pointer-events: none;
+        }
       }
       @include breakpoint($x-large) {
         font-size: 120px;
         width: 1000px;  // Constrain multiple lines
-      }
-      padding: 8px 10px;
-      position: relative;
-      &::before {
-        content: "";
-        z-index: -1;
-        display: none;
-        position: absolute;
-        width: 120%;
-        height: 120%;
-        top: -10%;
-        left: -10%;
-        border-radius: 50%;
-        background: $backdrop-color;
-        backdrop-filter: blur(2px);
       }
     }
     .page__hero--overlay {
@@ -62,13 +60,15 @@ body.layout--home {
           display: block;
           text-align: right;
           font-size: 1.4em;
-          text-shadow: 0 3px 5px rgba($backdrop-color, .65);
+          text-shadow: 0 3px 5px rgba($backdrop-color, .72);
         }
         @include breakpoint($medium) {
           margin-left: auto;
           text-align: center;
           font-size: 2em;
-          text-shadow: 0 3px 10px rgba($backdrop-color, .48);
+          // text-shadow: 0 3px 10px rgba($backdrop-color, .48);
+          background: rgba($backdrop-color, .73);
+          border-radius: 4px;
         }
       }
     }
