@@ -18,6 +18,9 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% assign is_post = page.path | split: '/' | contains: '_posts' %}
+{% assign show_date_first = page.show_date_first | default: is_post %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -34,6 +37,9 @@ layout: default
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
           {% include page__meta.html %}
+          {% if show_date_first %}
+          {% include page__date.html %}
+          {% endif %}
         </header>
       {% endunless %}
 
@@ -55,7 +61,9 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
+        {% unless show_date_first %}
         {% include page__date.html %}
+        {% endunless %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
