@@ -16,8 +16,6 @@ articles:
         url: /about/
       - title: Our Leaders
         url: /team/
-      - title: Frequently Asked Questions
-        url: /faq/
       - title: Ranks in the Army Cadets
         url: /ranks-in-the-aac/
   - title: Join
@@ -26,6 +24,8 @@ articles:
         url: /join/
       - title: Volunteer as an Adult
         url: /volunteer/
+      - title: Frequently Asked Questions
+        url: /faq/
   - title: Contact
     children:
       - title: Contact Us

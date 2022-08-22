@@ -150,7 +150,7 @@ Defence Approved Helpers assist with cadet activities from time to time, hold no
 ### Trainee Officer of Cadets (TOOC)
 
 {% capture caption_tooc %}
-Trainee Officer of Cadets is the introductory rank for prospective OOCs. The rank slide for a TOOC has no insignia, with only the blue and gold embroidered "AAC" stripe. At this rank, TOOCs usually perform similar duties to a 2LT (AAC), and have a nominal period of time to complete their basic level OOC training course, to qualify for promotion to 2LT (AAC). TOOCs are to be referred to as "Mr, Mrs, Ms/Miss".
+Trainee Officer of Cadets has been transitioned into a category (rather than an AAC rank) as of 2022. ACS now join as a uniformed member of staff at the rank of 2LT (AAC). 
 {% endcapture %}
 {% include badge-of-rank.html rank="tooc" caption=caption_tooc %}
 
