@@ -16,6 +16,6 @@ Roles are part-time, and our staff members come from incredibly diverse backgrou
 
 Find our more about the [requirements for adult volunteers]({{site.data.links.aac_volunteer_url}}), and apply when you're ready!
 
-[Apply to be a volunteer at 248 ACU]({{site.data.links.acs_eoi_url}}){: .btn .btn--success}
+[Apply to volunteer at 248 ACU]({{site.data.links.acs_eoi_url}}){: .btn .btn--success}
 
 [![Recruiting Adult Leaders flyer]({{"/assets/media/22bn-flyer-small.jpg" | absolute_url}})]({{"/assets/media/22bn-flyer-large.jpg" | absolute_url}})

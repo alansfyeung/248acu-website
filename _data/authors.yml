@@ -1,0 +1,8 @@
+Alan Yeung:
+  name: Alan Yeung
+  bio: Officer Commanding, 248 ACU
+  avatar: /assets/images/profiles/capt-aac-ay.jpg
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:oc.248acu@armycadets.gov.au"
