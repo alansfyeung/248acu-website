@@ -32,9 +32,9 @@ Established in 2022, 248 ACU is a community-based cadet unit at Victoria Barrack
 
 ## Unit Structure 
 
-Like most Army Cadet Units, 248 ACU is administered by the Officer Commanding (OC), the senior adult leader with command of the unit. The OC is supported by other 
+Like most Army Cadet Units, 248 ACU is headed up by the Officer Commanding (OC), who is the senior adult leader with command of the unit. The OC is supported by other adult volunteers (Adult Cadet Staff, ACS) who deliver, administer and support the AAC program at the unit level.
 
-Cadets within 248 ACU are organised into platoons, depending on the level of training which they are undertaking. All cadets are led by fellow cadets - non-commissioned officers (NCOs) who are more senior and have attained rank and position. Cadet NCOs have responsibilities such 
+Cadets within 248 ACU are organised into platoons, depending on the level of training which they are undertaking. All cadets are led by fellow cadets - non-commissioned officers (NCOs) who are more senior and have attained rank and position. In accordance with the Cadet Development Curriculum (CDC), cadet NCOs may be section, platoon or company leaders, or they may be a specialist with a certain skill. All cadet NCOs are capable of teaching lessons (delivering periods of instruction), and are the role models for more junior cadets.
 
 ## Parade Nights
 
