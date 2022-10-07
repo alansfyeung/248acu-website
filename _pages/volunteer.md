@@ -5,7 +5,7 @@ title: Become a Volunteer Adult Leader
 excerpt: Join 248 ACU or transfer to this unit
 categories: joining
 header:
-  teaser: /assets/images/home/248acu-adult-volunteer.jpg
+  teaser: /assets/images/teasers/248acu-adult-volunteer.jpg
 sidebar:
   nav: articles
 ---

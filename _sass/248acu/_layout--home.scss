@@ -23,7 +23,7 @@ body.layout--home {
         width: 60px * 8;  // Constrain multiple lines
         text-shadow: 0 5px 10px rgba($backdrop-color, .44);
         @supports (background-clip: text) or (-webkit-background-clip: text) {
-          background: url("/assets/images/home/hero-clip.jpg") no-repeat center center/cover;
+          background: url("/assets/images/teasers/hero-clip.jpg") no-repeat center center/cover;
           background-clip: text;
           -webkit-background-clip: text;
           text-shadow: none;
