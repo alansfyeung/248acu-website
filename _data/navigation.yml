@@ -34,9 +34,11 @@ articles:
         url: /sponsor/
       - title: Downloads and Media
         url: /downloads/
-  - title: News
+  - title: Content
     children:
-      - title: By category
+      - title: Latest News
+        url: /latest-news/
+      - title: All Categories
         url: /categories/
       - title: By tag
         url: /tags/

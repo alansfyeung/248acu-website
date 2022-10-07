@@ -129,6 +129,42 @@
     margin: 0 0 4px;
     font-size: 0.6em;
   }
+
+  &.list__item--news {
+    display: grid;
+    grid-template: 25px 25px auto / auto;
+    margin-bottom: 1em;
+
+    .list__item-date {
+      font-size: 0.85em;
+      font-weight: bold;
+      margin-right: 1em;
+    }
+
+    .list__item-teaser {
+      display: none;
+    }
+
+    .archive__item {
+      margin-left: 1em;
+      h1, h2, h3, h4 {
+        margin-top: 0;
+      }
+    }
+
+    @include breakpoint($large) {
+      grid-template: auto / 2fr 3fr 9fr;
+  
+      .list__item-teaser {
+        display: block;
+        overflow: hidden;
+        img {
+          min-width: 100%;
+          min-height: 100%;
+        }
+      }
+    }
+  }
 }
 
 /*

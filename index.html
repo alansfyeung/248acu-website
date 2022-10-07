@@ -33,3 +33,7 @@ entries_layout: grid  # for the news
 </article>
 
 {% include feature_row %}
+
+<h3 class="archive__subtitle">
+  <a href="{% link _pages/latest-news.md %}">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</a>
+</h3>
