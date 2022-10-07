@@ -5,7 +5,7 @@ tagline: Here are some questions commonly asked by parents and prospective cadet
 permalink: /faq/
 categories: info
 header:
-  overlay_image: /assets/images/pages/cadets-biv-3.jpg
+  overlay_image: /assets/images/overlays/cadets-biv-3.jpg
   overlay_filter: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,.1) 100%)
   teaser: /assets/images/biv-1.jpg
 sidebar:
@@ -46,7 +46,7 @@ Even if you attend a private school that already has a cadet unit, you may join 
 
 ## Do cadets need to pass a fitness standard or a medical test?
 
-To participate in regular cadet activities, there is no fitness standard. A few activities, such as the [Adventure Training Award](https://news.defence.gov.au/service/defining-moment-cadets-lives){:target=_blank}, may require a certain level of fitness before participating. Likewise, if you have a physical or medical condition (such as a disability, asthma, diabetes or more), if we can help you to manage while you participate in cadets, there is no reason why you cannot join.
+There is no fitness standard required to participate in regular cadet activities. The AAC is an inclusive organisation, and if you have a physical or medical condition (such as a disability, asthma, diabetes or more), if we can help you to manage while you participate in cadets, there is no reason why you cannot join. In your senior cadet years, some activities, such as the [Adventure Training Award](https://news.defence.gov.au/service/defining-moment-cadets-lives){:target="_blank"}, may require a certain level of fitness before participating. 
 
 ## Is cadets dangerous? 
 

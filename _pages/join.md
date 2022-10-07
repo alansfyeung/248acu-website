@@ -5,7 +5,7 @@ title: Joining Cadets
 excerpt: Join 248 ACU or transfer to this unit
 categories: joining
 header:
-  overlay_image: /assets/images/pages/cadets-cuo.jpg
+  overlay_image: /assets/images/overlays/cadets-cuo.jpg
   overlay_filter: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,.1) 100%)
   teaser: /assets/images/home/248acu-how-to-join-cadets.jpg
 sidebar:

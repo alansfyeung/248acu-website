@@ -5,7 +5,7 @@ tagline: Get in touch with 248 ACU
 permalink: /contact/
 categories: info
 header:
-  teaser: /assets/images/pages/info-night.jpg
+  teaser: /assets/images/overlays/info-night.jpg
 sidebar:
   nav: articles
 ---
