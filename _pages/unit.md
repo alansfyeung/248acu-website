@@ -7,7 +7,7 @@ categories: info
 header:
   overlay_image: /assets/images/overlays/cadets-vbs-1.jpg
   overlay_filter: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,.1) 100%)
-  teaser: /assets/images/teasers/248acu-victoria-barracks.jpg
+  teaser: /assets/images/teasers/vbs-cadets-2.jpg
 sidebar:
   nav: articles
 ---
