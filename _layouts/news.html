@@ -5,7 +5,7 @@ author_profile: false
 
 {% assign news_category = page.news_category | default: "news" %}
 {% assign posts = site.posts | where:"categories",news_category %}
-{% assign date_format = site.date_format | default: "%B %-d, <br>%Y" %}
+{% assign date_format = site.date_format | default: "%-d %B, %Y" %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}

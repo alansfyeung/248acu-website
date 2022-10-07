@@ -114,7 +114,7 @@ author:
   avatar           : "/assets/images/logos/248acu-outline.jpg"
   bio              : "Established 2022"
   location         : "Victoria Barracks, Sydney"
-  email            : "oc.248acu@armycadets.gov.au"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
