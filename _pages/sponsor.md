@@ -4,7 +4,7 @@ title: Sponsorship
 permalink: /sponsor/
 categories: info
 header:
-  teaser: /assets/images/overlays/vbs-cadets-2.jpg
+  teaser: /assets/images/teasers/vbs-cadets-2.jpg
 sidebar:
   nav: articles
 ---

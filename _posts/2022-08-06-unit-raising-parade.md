@@ -4,7 +4,7 @@ title: 248 ACU Unit Raising Parade
 categories: event home
 excerpt: 248 ACU was officially raised at a parade at Victoria Barracks, Sydney
 header:
-  teaser: assets/images/vbs-cadets-5.jpg
+  teaser: assets/images/teasers/vbs-cadets-5.jpg
 ---
 
 On the morning of Saturday 6th August, 2022, members of 22 Australian Army Cadet Battalion (22 AAC Bn) held a parade at Victoria Barracks, Sydney, to welcome 248 Army Cadet Unit (ACU) as the seventh unit in the cadet battalion.

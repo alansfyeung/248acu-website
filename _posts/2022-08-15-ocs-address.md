@@ -6,7 +6,7 @@ author_profile: true
 categories: home
 excerpt: 248 Army Cadet Unit. 248 Army Cadet Unit is, at time of writing, the newest cadet unit in Australia. 
 header:
-  teaser: assets/images/vbs-cadets-1.jpg
+  teaser: assets/images/teasers/vbs-cadets-1.jpg
 ---
 
 My name is Captain (AAC) Alan Yeung and I am the Officer Commanding, 248 Army Cadet Unit. 248 Army Cadet Unit is, at time of writing, the newest cadet unit in Australia. Situated at Victoria Barracks, Sydney, a location with significant military history, it is a fitting place to raise a community-based cadet unit. Strong support from Headquarters Forces Command has enabled the cadet unit to commence operating with its first intake of new recruits. I look forward to the growth of 248 ACU and establishing coimmunity-based Army Cadets as a leading option for high school students seeking an extra-curricular, self-development activity.

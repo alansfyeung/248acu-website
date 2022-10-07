@@ -5,7 +5,7 @@ tagline: Meet the adult staff and the senior cadet leadership team
 permalink: /team/
 categories: info
 header:
-  teaser: /assets/images/vbs-cadets-1.jpg
+  teaser: /assets/images/teasers/vbs-cadets-1.jpg
 sidebar:
   nav: articles
 ---

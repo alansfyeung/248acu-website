@@ -4,7 +4,7 @@ permalink: /privacy-disclaimer/
 title: Privacy Policy, Disclaimer and Copyright Statement
 excerpt: All information contained on this website ('the website') is given in good faith and has been derived from sources believed to be accurate.
 header:
-  teaser: /assets/images/vbs-cadets-4.jpg
+  teaser: /assets/images/teasers/vbs-cadets-4.jpg
 ---
 
 ## Website Privacy Policy 
