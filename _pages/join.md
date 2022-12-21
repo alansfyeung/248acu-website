@@ -12,7 +12,7 @@ sidebar:
   nav: articles
 ---
 
-> 💁‍♂️ Our next enrolment will be in Term 1, 2023. [Find out more here]({% link _posts/2022-10-06-22H1-open-day-and-intake.md %}).
+> 💁‍♂️ Our next enrolment will be in Term 1, 2023. [Find out more here]({% link _posts/2022-10-06-23H1-open-day-and-intake.md %}).
 
 Are you a high school student? Start your journey in Cadets! To join 248 Army Cadet Unit, you need to be: 
 

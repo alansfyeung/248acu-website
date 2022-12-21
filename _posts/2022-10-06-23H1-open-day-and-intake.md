@@ -33,9 +33,13 @@ Pedestrian entry via Oxford St gate, opp corner Shadforth St and Oxford St (insi
 
 Before visiting, please also familiarise yourself with [information and procedures at Victoria Barracks, Sydney](https://www.defence.gov.au/about/base-locations/victoria-barracks-sydney){:target="_blank"}.
 
-# Enrolments for Term 1 2023 
+# Key Dates for new cadet recruits in Term 1 2023 
 
-The first day for Term 1 2023 new recruits will be __11 March 2023__. In the meantime, you can submit an [expression of interest]({% link _pages/join.md %}), [read more about cadets]({% link _pages/cadet-career.md %}), or look at the [frequently asked questions]({% link _pages/faq.md %}).
+Following the open day, prospective recruits have approximately two weeks to finalise their enrolments. 
+
+Those who already pre-enrolled during 2022 will already have been activated in the system - if you have corresponded with us, and received your cadets Welcome Email, there is no further qction required.
+
+The first day for Term 1 2023 new cadet recruits will be __Tuesday 7 March 2023__. In the meantime, you can submit an [expression of interest]({% link _pages/join.md %}) or look at the [frequently asked questions]({% link _pages/faq.md %}).
 
 
 ![Army Cadets Open Day](/assets/images/open-day.jpg)
