@@ -17,7 +17,7 @@ In the meantime, you can still submit an "Expression of Interest" using the Appl
 
 # Open Day, Term 1 2023
 
-248 ACU will be holding an on-site Open Day at __10am, Saturday 11 February 2023__ (gate entry from 9:45am). 
+248 ACU will be holding an on-site Open Day at __10am, Saturday 18 February 2023__ (gate entry from 9:45am). 
 
 ## Pre-registration for Open Day, Term 1 2023
 
