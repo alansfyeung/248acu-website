@@ -58,9 +58,9 @@ Adult leaders undergo rigorous training in youth safety, are qualified to provid
 
 Yes! When the opportunity arises, cadets from 248 ACU may attend overseas [exchange activities](https://www.facebook.com/203ACU/photos/a.374003996044265/1834504383327545/){:target=_blank}, such as going to the [United Kingdom](https://www.facebook.com/203ACU/photos/a.374003996044265/1834507163327267/){:target=_blank} and more. 
 
-## Can I help run cadets?
+## Can I help to run cadet activities?
 
-Our cadet unit requires adult volunteers - Army Cadet Staff (ACS), Officers of Cadets (OOC) and Defence Approved Helpers (DAH) - to plan activities and to operationally run the unit. You need to be at least 18 years old. Our staff come from all kinds of different backgrounds! [Find out more]({% link _pages/volunteer.md %}) about volunteering in the Army Cadets.
+Our cadet unit is run by adult volunteers - Army Cadet Staff (ACS), Officers of Cadets (OOC) and Defence Approved Helpers (DAH) - who plan the operations and activities that cadets do. You need to be at least 18 years old. Our staff come from all kinds of different backgrounds! [Find out more]({% link _pages/volunteer.md %}) about volunteering in the Army Cadets.
 
 ### Got a question not answered?
 

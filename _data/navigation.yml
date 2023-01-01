@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "About Us"
-    url: /unit/
+  - title: "About"
+    url: /about/
   - title: "Join Cadets"
     url: /join/
   - title: Latest News
     url: /latest-news/
-  - title: About Army Cadets
-    url: /about/
   - title: Our Leaders
     url: /team/
   - title: Contact Us
@@ -19,8 +17,6 @@ articles:
   - title: About
     children:
       - title: About 248 ACU
-        url: /unit/
-      - title: About Army Cadets
         url: /about/
       - title: Our Leaders
         url: /team/

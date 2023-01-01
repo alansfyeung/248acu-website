@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 head_scripts:
   - assets/js/google-analytics.js
-  - assets/js/tiktok-pixel.js
+  # - assets/js/tiktok-pixel.js # Disabled 01/01/23; not needed
   - assets/js/facebook-pixel.js
 
 # Social Sharing
