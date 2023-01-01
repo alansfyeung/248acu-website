@@ -26,16 +26,18 @@ Captain (AAC) Alan Yeung joined the Australian Army Cadets in 2011, first as a v
 
 &nbsp;{:.cf}
 
-![Company Commander]({{"/assets/images/profiles/cuo-lk.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Administration Officer]({{"/assets/images/profiles/2lt-nh.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
-#### Acting Cadet Company Commander
+#### Administration Officer
 
-CUO Lachi Kankanamage - Battalion CUO, 22 AAC Bn 
+2LT (AAC) Neale Hayes
+
+
 
 &nbsp;{:.cf}
 
-![CSM]({{"/assets/images/profiles/cdtwo1-en.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![CSM]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
-#### Acting Cadet Company Sergeant Major
+#### Quartermaster
 
-CDTWO1 Emma Noye - Battalion CDT RSM, 22 AAC Bn
+2LT (AAC) Ken Poon
