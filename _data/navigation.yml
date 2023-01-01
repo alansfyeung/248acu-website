@@ -4,8 +4,16 @@ main:
     url: /unit/
   - title: "Join Cadets"
     url: /join/
-  - title: "Volunteer"
-    url: /volunteer/
+  - title: Latest News
+    url: /latest-news/
+  - title: About Army Cadets
+    url: /about/
+  - title: Our Leaders
+    url: /team/
+  - title: Contact Us
+    url: /contact/
+  - title: Downloads and Media
+    url: /downloads/
     
 articles:
   - title: About

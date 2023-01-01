@@ -3,6 +3,10 @@
    ========================================================================== */
 
 $(function() {
+
+  // Greedy nav custom config
+  window.greedyNavOpts = {maxNumberOfVisibleItems: 3};
+
   // FitVids init
   $("#main").fitVids();
 

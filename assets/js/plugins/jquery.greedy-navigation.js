@@ -48,6 +48,8 @@ $(function() {
   // Get initial state
   measureLinks();
 
+  const { maxNumberOfVisibleItems = 2 } = window.greedyNavOpts ?? {};
+
   var winWidth = $( window ).width();
   // Set the last measured CSS width breakpoint: 0: <768px, 1: <1024px, 2: < 1280px, 3: >= 1280px.
   var lastBreakpoint = winWidth < 768 ? 0 : winWidth < 1024 ? 1 : winWidth < 1280 ? 2 : 3;
@@ -66,25 +68,34 @@ $(function() {
 
     // Get instant state
     numOfVisibleItems = $vlinks.children().length;
-    // Decrease the width of visible elements from the nav innerWidth to find out the available space for navItems
-    availableSpace = /* nav */ $nav.innerWidth()
-                   - /* logo */ ($logo.length !== 0 ? $logo.outerWidth(true) : 0)
-                   - /* title */ $title.outerWidth(true)
-                   - /* search */ ($search.length !== 0 ? $search.outerWidth(true) : 0)
-                   - /* toggle */ (numOfVisibleItems !== breakWidths.length ? $btn.outerWidth(true) : 0);
-    requiredSpace = breakWidths[numOfVisibleItems - 1];
-
-    // There is not enought space
-    if (requiredSpace > availableSpace) {
+    if (numOfVisibleItems > maxNumberOfVisibleItems) {
+      // Decrease visible elements, regardless of available space or not
       $vlinks.children().last().prependTo($hlinks);
       numOfVisibleItems -= 1;
       check();
-      // There is more than enough space. If only one element is hidden, add the toggle width to the available space
-    } else if (availableSpace + (numOfVisibleItems === breakWidths.length - 1?$btn.outerWidth(true):0) > breakWidths[numOfVisibleItems]) {
-      $hlinks.children().first().appendTo($vlinks);
-      numOfVisibleItems += 1;
-      check();
+    } else {
+      // Decrease the width of visible elements from the nav innerWidth to find out the available space for navItems
+      availableSpace = /* nav */ $nav.innerWidth()
+          - /* logo */ ($logo.length !== 0 ? $logo.outerWidth(true) : 0)
+          - /* title */ $title.outerWidth(true)
+          - /* search */ ($search.length !== 0 ? $search.outerWidth(true) : 0)
+          - /* toggle */ (numOfVisibleItems !== breakWidths.length ? $btn.outerWidth(true) : 0);
+      requiredSpace = breakWidths[numOfVisibleItems - 1];
+      if (requiredSpace > availableSpace) {
+        // There is not enought space
+        $vlinks.children().last().prependTo($hlinks);
+        numOfVisibleItems -= 1;
+        check();
+      } else if (numOfVisibleItems < maxNumberOfVisibleItems) {
+        if (availableSpace + (numOfVisibleItems === breakWidths.length - 1?$btn.outerWidth(true):0) > breakWidths[numOfVisibleItems]) {
+          // There is more than enough space. If only one element is hidden, add the toggle width to the available space
+          $hlinks.children().first().appendTo($vlinks);
+          numOfVisibleItems += 1;
+          check();
+        }
+      }  
     }
+
     // Update the button accordingly
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {
