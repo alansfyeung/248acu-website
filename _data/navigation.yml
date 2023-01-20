@@ -1,15 +1,17 @@
 # main links
 main:
-  - title: "About"
+  - title: About
     url: /about/
-  - title: "Join Cadets"
+  - title: Join Cadets
     url: /join/
   - title: Latest News
     url: /latest-news/
-  - title: Our Leaders
-    url: /team/
   - title: Contact Us
     url: /contact/
+  - title: Volunteer as an Adult
+    url: /volunteer/
+  - title: Frequently Asked Questions
+    url: /faq/
   - title: Downloads and Media
     url: /downloads/
     
