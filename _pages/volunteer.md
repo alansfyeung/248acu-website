@@ -10,6 +10,10 @@ sidebar:
   nav: articles
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rekl3Y2njoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
 The Australian Army Cadets is a community-based organisation that is run by volunteers. Uniformed positions (Officers of Cadets) and non-uniformed positions (Defence Approved Helpers) are both ways in which you can help 248 ACU and contribute to the cadets' experience. 
 
 Roles are part-time, and our staff members come from incredibly diverse backgrounds – parents, school teachers, emergency services, ex-ADF members, professionals, ex-cadets, and many more. 
