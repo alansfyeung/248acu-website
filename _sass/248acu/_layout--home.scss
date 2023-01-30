@@ -2,56 +2,56 @@ body.layout--home {
   $backdrop-color: #000;
   .initial-content {
     overflow: hidden;
-    .page__title {
-      // background: $backdrop-color;
-      // backdrop-filter: blur(2px);
-      // border-radius: 20px;
-      display: block;
-      text-align: left; 
-      text-transform: uppercase;
-      letter-spacing: -2px;
-      word-spacing: 600px; 
-      font-size: 48px;
-      line-height: 85%;
-      padding: 8px 10px;
-      position: relative;
-      @include breakpoint($small) {
-        word-spacing: initial;
-        font-size: 60px;
-        line-height: 80%;
-        text-align: center;  // happy accident, this looks pretty cool
-        width: 60px * 8;  // Constrain multiple lines
-        text-shadow: 0 5px 10px rgba($backdrop-color, .44);
-        @supports (background-clip: text) or (-webkit-background-clip: text) {
-          background: url("/assets/images/home/hero-clip.jpg") no-repeat center center/cover;
-          background-clip: text;
-          -webkit-background-clip: text;
-          text-shadow: none;
-          color: transparent;
+    .page__hero, .page__hero--aac-default {
+      .page__title {
+        // background: $backdrop-color;
+        // backdrop-filter: blur(2px);
+        // border-radius: 20px;
+        display: block;
+        text-align: left; 
+        text-transform: uppercase;
+        letter-spacing: -2px;
+        word-spacing: 600px; 
+        font-size: 48px;
+        line-height: 85%;
+        padding: 8px 10px;
+        position: relative;
+        @include breakpoint($small) {
+          word-spacing: initial;
+          font-size: 60px;
+          line-height: 80%;
+          text-align: center;  // happy accident, this looks pretty cool
+          width: 60px * 8;  // Constrain multiple lines
+          text-shadow: 0 5px 10px rgba($backdrop-color, .44);
+          @supports (background-clip: text) or (-webkit-background-clip: text) {
+            background: url("/assets/images/home/hero-clip.jpg") no-repeat center center/cover;
+            background-clip: text;
+            -webkit-background-clip: text;
+            text-shadow: none;
+            color: transparent;
+          }
+        }
+        @include breakpoint($medium) {
+          font-size: 90px;
+          width: 90px * 8;  // Constrain multiple lines
+          // text-shadow: 0 8px 20px rgba($backdrop-color, .44);
+          &::before {
+            content: "";
+            z-index: -1;
+            display: block;
+            position: absolute;
+            width: 100%;
+            height: 200%;
+            top: -25%;
+            background: radial-gradient(rgba($backdrop-color, .22) 20%, transparent 65%);
+            pointer-events: none;
+          }
+        }
+        @include breakpoint($x-large) {
+          font-size: 120px;
+          width: 1000px;  // Constrain multiple lines
         }
       }
-      @include breakpoint($medium) {
-        font-size: 90px;
-        width: 90px * 8;  // Constrain multiple lines
-        // text-shadow: 0 8px 20px rgba($backdrop-color, .44);
-        &::before {
-          content: "";
-          z-index: -1;
-          display: block;
-          position: absolute;
-          width: 100%;
-          height: 200%;
-          top: -25%;
-          background: radial-gradient(rgba($backdrop-color, .22) 20%, transparent 65%);
-          pointer-events: none;
-        }
-      }
-      @include breakpoint($x-large) {
-        font-size: 120px;
-        width: 1000px;  // Constrain multiple lines
-      }
-    }
-    .page__hero--overlay {
       .page__lead {
         font-family: $bodoni;
         display: none;
@@ -69,6 +69,58 @@ body.layout--home {
           // text-shadow: 0 3px 10px rgba($backdrop-color, .48);
           background: rgba($backdrop-color, .73);
           border-radius: 4px;
+        }
+      }
+    }
+    .page__hero--2023h1-open-day {
+      background: url("/assets/images/home/248acu-2023h1-open-day-banner.jpg") no-repeat center center/cover #74a9ef;
+      height: 440px;
+      .wrapper {
+        padding: 1em;
+        max-width: $max-width;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+      }
+      .wrapper__content {
+        padding: 1em;
+        background: rgba($backdrop-color, .3);
+        backdrop-filter: blur(2px);
+        text-align: left;
+        border-radius: $border-radius;
+        @include breakpoint($small) {
+          text-align: right;
+        }
+      }
+      .page__title {
+        color: white;
+        font-size: $type-size-1 * 1.5;
+      }
+      .page__lead {
+        color: white;
+        font-size: $type-size-4;
+        line-height: 1.1;
+      }
+      .page__title + .page__lead,
+      .page__lead + .page__lead {
+        margin-top: -1em;
+      }
+      .btn {
+        font-size: $type-size-5;
+        animation: transform .2s ease;
+        &.btn--link {
+          color: white;
+          &:hover, &:active {
+            color: white;
+          }
+        }
+        &.btn--success {
+          &:hover, &:active {
+            transform-origin: center;
+            transform: scale(1.05);
+            text-decoration: none;
+          }
         }
       }
     }
