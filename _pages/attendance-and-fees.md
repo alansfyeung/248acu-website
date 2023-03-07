@@ -61,6 +61,11 @@ To facilitate uniform and equipment issue, a $200.00 bond is collected and is re
 
 If you have queries or difficulty with the payment of fees, please reach out to our unit officers (adult staff). 
 
+# Payments to bank account
+
+Please make direct deposit payments to the following bank account: 
+
+{% include bank-account.html %}
 
 __More questions?__
 
