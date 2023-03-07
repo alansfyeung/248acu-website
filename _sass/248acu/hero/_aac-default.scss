@@ -1,0 +1,68 @@
+.page__title {
+  // background: $backdrop-color;
+  // backdrop-filter: blur(2px);
+  // border-radius: 20px;
+  display: block;
+  text-align: left; 
+  text-transform: uppercase;
+  letter-spacing: -2px;
+  word-spacing: 600px; 
+  font-size: 48px;
+  line-height: 85%;
+  padding: 8px 10px;
+  position: relative;
+  @include breakpoint($small) {
+    word-spacing: initial;
+    font-size: 60px;
+    line-height: 80%;
+    text-align: center;  // happy accident, this looks pretty cool
+    width: 60px * 8;  // Constrain multiple lines
+    text-shadow: 0 5px 10px rgba($backdrop-color, .44);
+    @supports (background-clip: text) or (-webkit-background-clip: text) {
+      background: url("/assets/images/home/hero-clip.jpg") no-repeat center center/cover;
+      background-clip: text;
+      -webkit-background-clip: text;
+      text-shadow: none;
+      color: transparent;
+    }
+  }
+  @include breakpoint($medium) {
+    font-size: 90px;
+    width: 90px * 8;  // Constrain multiple lines
+    // text-shadow: 0 8px 20px rgba($backdrop-color, .44);
+    &::before {
+      content: "";
+      z-index: -1;
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 200%;
+      top: -25%;
+      background: radial-gradient(rgba($backdrop-color, .22) 20%, transparent 65%);
+      pointer-events: none;
+    }
+  }
+  @include breakpoint($x-large) {
+    font-size: 120px;
+    width: 1000px;  // Constrain multiple lines
+  }
+}
+.page__lead {
+  font-family: $bodoni;
+  display: none;
+  text-align: center;
+  @include breakpoint($small) {
+    display: block;
+    text-align: right;
+    font-size: 1.4em;
+    text-shadow: 0 3px 5px rgba($backdrop-color, .72);
+  }
+  @include breakpoint($medium) {
+    margin-left: auto;
+    text-align: center;
+    font-size: 2em;
+    // text-shadow: 0 3px 10px rgba($backdrop-color, .48);
+    background: rgba($backdrop-color, .73);
+    border-radius: 4px;
+  }
+}
