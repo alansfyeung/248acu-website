@@ -23,14 +23,14 @@ Cadets start at the rank of cadet recruit, and may be promoted through the ranks
 ### Cadet (CDT)/Cadet Recruit (CDTREC)
 
 {% capture caption_cdt %}
-Cadet Recruits and Cadets do not wear a rank slide (as opposed Private PTE in the Australian Army, who wear a rank slide with no insignia). Upon advancement from CDTREC to CDT, the cadet is eligible to wear the Australian National Flag patch (high visibility) on the left shoulder.
+Cadet Recruits and Cadets do not wear a rank slide. Upon advancement from CDTREC to CDT, a cadet is eligible to wear the Australian National Flag on the left shoulder of their general duty uniform.
 {% endcapture %}
 {% include badge-of-rank.html caption=caption_cdt %}
 
 ### Cadet Lance Corporal (CDTLCPL)
 
 {% capture caption_cdtlcpl %}
-Cadet Lance Corporals wear an insignia of one chevron, and are usually senior cadets or Section 2ICs. A CDTLCPL is to be addressed as "(Lance) Corporal" by their subordinates.
+Cadet Lance Corporals wear an insignia of one chevron, and are usually Section<sup>1</sup> 2ICs or perform a specialist role within the cadet unit. A CDTLCPL is to be addressed as "(Lance) Corporal" by their subordinates, where "Lance" is sometimes dropped for brevity.
 {% endcapture %}
 {% include badge-of-rank.html rank="cdtlcpl" caption=caption_cdtlcpl %}
 
@@ -52,7 +52,7 @@ Cadet Sergeants wear an insignia of three chevrons, and are usually Platoon Serg
 ### Cadet Warrant Officer Class Two (CDTWO2)
 
 {% capture caption_cdtwo2 %}
-Cadet Warrant Officers Class Two wear an insignia of a Queen's crown bounded by a square frame, and are usually the Company Sergeant Major (CSM)<sup>1</sup>, or may hold a unit training or operations role within the cadet unit. A CDTWO2 is to be addressed as "Sir/Ma'am" by their subordinates.
+Cadet Warrant Officers Class Two wear an insignia of a crown bounded by a square frame, and are usually the Company Sergeant Major (CSM)<sup>1</sup>, or may hold a unit training or operations role within the cadet unit. A CDTWO2 is to be addressed as "Sir/Ma'am" by their subordinates.
 {% endcapture %}
 {% include badge-of-rank.html rank="cdtwo2" caption=caption_cdtwo2 %}
 
@@ -120,21 +120,21 @@ AAC Captains wear an insignia of three pips. They are often Officers Commanding 
 ### Major (MAJ(AAC))
 
 {% capture caption_maj_aac %}
-AAC Majors wear an insignia of one Queen's crown. They are often sub-regional Commanding Officers, SBU Commanding Officers, or hold a position at regional headquarters (e.g. Bde HQ) or national headquarters (HQ AAC) in various staff officer or specialist officer positions. 
+AAC Majors wear an insignia of one crown. They are often sub-regional Commanding Officers, SBU Commanding Officers, or hold a position at regional headquarters (e.g. Bde HQ) or national headquarters (HQ AAC) in various staff officer or specialist officer positions. 
 {% endcapture %}
 {% include badge-of-rank.html rank="maj-aac" caption=caption_maj_aac %}
 
 ### Lieutenant Colonel (LTCOL(AAC))
 
 {% capture caption_ltcol_aac %}
-AAC Lieutenant Colonels wear an insignia of a Queen's crown atop a single pip. They are Regional Assistant Commanders (ACOMD), SBU Commanding Officers, or hold a staff officer position at national headquarters (HQ AAC). 
+AAC Lieutenant Colonels wear an insignia of a crown atop a single pip. They are Regional Assistant Commanders (ACOMD), SBU Commanding Officers, or hold a staff officer position at national headquarters (HQ AAC). 
 {% endcapture %}
 {% include badge-of-rank.html rank="ltcol-aac" caption=caption_ltcol_aac %}
 
 ### Colonel (COL(AAC))
 
 {% capture caption_col_aac %}
-AAC Colonels wear an insignia of a Queen's crown atop two pips. It is the rank of the National Assistant Commander (NAC), who is typically the only OOC to hold this rank<sup>6</sup>. 
+AAC Colonels wear an insignia of a crown atop two pips. It is the rank of the National Assistant Commander (NAC), who is typically the only OOC to hold this rank<sup>6</sup>. 
 {% endcapture %}
 {% include badge-of-rank.html rank="col-aac" caption=caption_col_aac %}
 
@@ -143,14 +143,14 @@ AAC Colonels wear an insignia of a Queen's crown atop two pips. It is the rank o
 ### Defence Approved Helper (DAH)
 
 {% capture caption_dah %}
-Defence Approved Helpers assist with cadet activities from time to time, hold no rank and do not wear a uniform. They to be referred to by cadets as "Mr, Mrs, Ms/Miss". 
+Defence Approved Helpers assist with cadet activities from time to time, hold no rank and do not wear a uniform. They are to be referred to by cadets as "Mr, Mrs, Ms/Miss" by cadets. 
 {% endcapture %}
 {% include badge-of-rank.html caption=caption_dah %}
 
 ### Trainee Officer of Cadets (TOOC)
 
 {% capture caption_tooc %}
-Trainee Officer of Cadets has been transitioned into a category (rather than an AAC rank) as of 2022. ACS now join as a uniformed member of staff at the rank of 2LT (AAC). 
+Trainee Officer of Cadets has been redefined as a category (rather than an AAC rank) as of 2022, and this rank is no longer used. ACS now join as a uniformed member of staff at the rank of 2LT (AAC). 
 {% endcapture %}
 {% include badge-of-rank.html rank="tooc" caption=caption_tooc %}
 
