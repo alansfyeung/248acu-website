@@ -12,13 +12,13 @@ sidebar:
   nav: articles
 ---
 
-> 💁‍♂️ Our next enrolment will be in Term 1, 2023. [Find out more here]({% link _posts/2022-10-06-23H1-open-day-and-intake.md %}).
-
 Are you a high school student? Start your journey in Cadets! To join 248 Army Cadet Unit, you need to be: 
 
 - 13-16 years old, or turning 13 in the year that you join
 - Be an Australian citizen or permanent resident
 - (read about the full requirements [here]({{site.data.links.aac_join_url}}))
+
+> 📣 Please note: {% include next_intake %}
 
 [Apply now for 248 ACU]({{site.data.links.cadet_eoi_url}}){: .btn .btn--success}
 
