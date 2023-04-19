@@ -2,6 +2,7 @@
 layout: single
 title: Attendance and Fees
 tagline: About the commitment required of cadets and the costs involved in participating
+description: Cadets attend numerous activities and events during the yera. Find ouut about the required commitment and the costs involved.
 permalink: /attendance-fees/
 categories: info
 header:

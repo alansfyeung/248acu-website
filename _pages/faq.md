@@ -1,7 +1,8 @@
 ---
 layout: single
 title: Frequently Asked Questions
-tagline: Here are some questions commonly asked by parents and prospective cadets
+tagline: Read questions commonly asked by parents and prospective cadets
+description: Here are some questions commonly asked by parents and prospective cadets.
 permalink: /faq/
 categories: info
 header:

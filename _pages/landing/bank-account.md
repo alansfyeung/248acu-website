@@ -1,7 +1,8 @@
 ---
 layout: single
 title: Bank Direct Deposit Payments
-tagline: Get the BSB and Account Number for making payments to 248 ACU
+tagline: 248 ACU Bank Account details for making payments
+description: Need to make a payment? Get the BSB and Account Number for sending payments to 248 ACU.
 permalink: /bank-account/
 categories: info
 sidebar:

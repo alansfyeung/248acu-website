@@ -2,6 +2,7 @@
 layout: single
 title: Contact Us
 tagline: Get in touch with 248 ACU
+description: Get the contact details for 248 ACU, including email addresses and offical social media sites.
 permalink: /contact/
 categories: info
 header:

@@ -2,6 +2,7 @@
 layout: single
 title: Ranks in the Army Cadets
 tagline: All about ranks in the Australian Army Cadets
+description: A comprehensive guide to the cadet and officer ranks in the Australian Army Cadets. 
 permalink: /ranks-in-the-aac/
 categories: info
 header:

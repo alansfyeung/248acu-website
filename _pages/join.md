@@ -2,6 +2,8 @@
 layout: single
 permalink: /join/
 title: Joining Cadets
+tagline: How to apply to join 248 ACU
+description: Find out about requirements for joining cadets, and how to submit your application.
 excerpt: Join 248 ACU or transfer to this unit
 categories: joining
 header:
