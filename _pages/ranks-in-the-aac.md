@@ -36,7 +36,7 @@ Cadet Lance Corporals wear an insignia of one chevron, and are usually Section<s
 {% include badge-of-rank.html rank="cdtlcpl" caption=caption_cdtlcpl %}
 
 
-### Cadet Lance Corporal (CDTCPL)
+### Cadet Corporal (CDTCPL)
 
 {% capture caption_cdtcpl %}
 Cadet Corporals wear an insignia of two chevrons, and are usually Section<sup>1</sup> Commanders or perform a specialist role within the cadet unit. A CDTCPL is to be addressed as "Corporal" by their subordinates.
