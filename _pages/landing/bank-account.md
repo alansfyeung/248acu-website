@@ -7,6 +7,10 @@ permalink: /bank-account/
 categories: info
 sidebar:
   nav: articles
+redirect_from:
+  - /bankaccount/
+  - /bank/
+  - /account/
 ---
 
 Please make direct deposit payments to the following bank account: 
