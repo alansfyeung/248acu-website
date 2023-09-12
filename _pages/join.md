@@ -14,7 +14,7 @@ sidebar:
   nav: articles
 ---
 
-> 📣 Please note: {% include next_intake %}
+> 📣 Please note: {% include next_intake.html %}
 
 Are you a high school student? Start your journey in Cadets! To join 248 Army Cadet Unit, you need to be: 
 
