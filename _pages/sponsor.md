@@ -9,9 +9,13 @@ sidebar:
   nav: articles
 ---
 
-248 ACU couldn't run without the help of the community. We are open to receiving financial assistance and material support. 
+248 ACU relies support from the community. We are open to receiving financial assistance and material support. 
 
-## Our Sponsors
+## Our Financial Sponsors
+
+![Woollahra Municipal Council]({{'/assets/images/sponsors/wmc-blue.jpg'}})
+
+---
 
 Become a sponsor today by [contacting us]({% link _pages/contact.md %}). 
 
