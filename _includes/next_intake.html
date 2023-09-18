@@ -2,9 +2,9 @@ Our next enrolment opportunity is <span class="autofill_next-intake">within the 
 {% raw %}
 <script>
 if (!window['248acu_autofillNextIntake']) {
-  window.autofillNextIntake = window.addEventListener('load', function () {
+  window['248acu_autofillNextIntake'] = window.addEventListener('load', function () {
     var now = new Date();
-    var targets = document.querySelectorAll('.autofill_next-intake').forEach(function (target) {
+    document.querySelectorAll('.autofill_next-intake').forEach(function (target) {
       if (now.getMonth() > 7) {
       target.innerHTML = 'Term 1, ' + (now.getFullYear() + 1);
     } else {
