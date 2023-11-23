@@ -12,10 +12,9 @@ sidebar:
 
 &nbsp;{:.cf}
 
-![OC]({{"/assets/images/profiles/capt-aac-ay.jpg"|absolute_url}}){: .align-left width="150" height="150"}
+![Officer Commanding - Alan Yeung]({{"/assets/images/profiles/ay.jpg"|absolute_url}}){: .align-left width="150" height="150"}
 
 #### Officer Commanding 
-
 CAPT (AAC) Alan Yeung 
 
 [Read the OC's address]({% link _posts/2022-08-15-ocs-address.md %}){:.btn.btn--primary}
@@ -26,18 +25,36 @@ Captain (AAC) Alan Yeung joined the Australian Army Cadets in 2011, first as a v
 
 &nbsp;{:.cf}
 
-![Administration Officer]({{"/assets/images/profiles/2lt-nh.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Training Officer - Neale Hayes]({{"/assets/images/profiles/nh.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
-#### Administration Officer
-
+#### Training Officer
 2LT (AAC) Neale Hayes
 
+&nbsp;{:.cf}
+
+![Quartermaster - Ken Poon]({{"/assets/images/profiles/kp.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Quartermaster
+2LT (AAC) Ken Poon
 
 
 &nbsp;{:.cf}
 
-![CSM]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Administration Officer - Charisse Pulfer]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
-#### Quartermaster
+#### Administration Officer
+2LT (AAC) Charisse Pulfer
 
-2LT (AAC) Ken Poon
+&nbsp;{:.cf}
+
+![Assistant Training Officer - Campbell Yap]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Assistant Training Officer 
+2LT (AAC) Campbell Yap
+
+&nbsp;{:.cf}
+
+![Assistant Quartermaster - David Smyth]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Assistant Quartermaster
+2LT (AAC) David Smyth
