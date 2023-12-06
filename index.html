@@ -28,8 +28,8 @@ entries_layout: grid  # for the news
 ---
 
 <style>
-  .rsvp-dec-2023 {
-    background: #5d2b00;
+  #rsvp-dec-2023 {
+    background: #870000;
     box-shadow: inset 0 10px 24px #3d1d01;
     color: white; 
     padding: 16px 20px; 
@@ -42,25 +42,37 @@ entries_layout: grid  # for the news
     font-size: 22px;
     font-weight: bold;
   }
+  #rsvp-dec-2023 hr {
+    border-color: white;
+    border-width: 2px;
+  }
   @media (max-width: 768px) {
-    .rsvp-dec-2023 {
+    #rsvp-dec-2023 {
+      text-align: center;
       flex-direction: column;
       gap: 10px;
       font-size: 18px;
     }
-  }
-  .rsvp-dec-2023 hr {
-    border-color: white;
-    border-width: 2px;
+    #rsvp-dec-2023 hr {
+      display: none;
+    }
   }
 </style>
 
-<div class="rsvp-dec-2023">
+<div id="rsvp-dec-2023">
   <hr style="width: 60px;">
   <div>Sunday 17 December: Visitor Registration Form</div>
   <a class="btn btn--large btn--light-outline" href="https://forms.gle/WVq7eQCVK5fxH95E8" target="_blank">Register here</a>
   <hr style="width: 60px;">
 </div>
+
+<script>
+  window.addEventListener('load', function () {
+    if (Date.now() > new Date('2023-12-18')) {
+      document.querySelector('#rsvp-dec-2023').remove();
+    }
+  });
+</script>
 
 <article class="headlines" style="margin-bottom: 2em;">
   <h4 style="font-size: 1.1em">
