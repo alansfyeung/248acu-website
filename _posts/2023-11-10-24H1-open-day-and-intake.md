@@ -7,20 +7,17 @@ header:
   teaser: assets/images/teasers/cadets-anzac-2.jpg
 ---
 
-<!-- [Start your application now]({{site.data.links.cadet_eoi_url}}){: .btn .btn--success} -->
-
-> We are not accepting new applications/expressions of interest (EOIs) until _January 2024_.
-> Until then, consider coming to our Open Day in February, and be sure to save the date in your calendar!
+[Start your application now]({{site.data.links.cadet_eoi_url}}){: .btn .btn--success}
 
 # Open Day, Term 1 2024
 
 248 ACU will hold an on-site Open Day at **10:30am, Saturday 17 February 2024** (gate entry from 10:00am).
 
-## Pre-registration for Open Day, Term 1 2024
+## Registration for Open Day, Term 1 2024
 
-Please be advised that entry to Victoria Barracks, Sydney is subject to certain conditions and security procedures. We will collect personal information to identify you as a visitor before you enter the base. To save time, we recommend you pre-register your details before the event.
+Please be advised that entry to Victoria Barracks, Sydney is subject to certain conditions and security procedures. We will collect personal information to identify you as a visitor before you enter the base. To save time, we recommend you register your details before the event.
 
-[Pre-registration form](https://forms.gle/GK6KG9Mkt3jnxYLJ6){: .btn .btn--info}
+[Access the registration form](https://forms.gle/GK6KG9Mkt3jnxYLJ6){: .btn .btn--info}
 
 ## Location for Open Day, Term 1 2024
 
