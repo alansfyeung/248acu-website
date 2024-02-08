@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Our Leaders
-tagline: Meet the adult staff and the senior cadet leadership team
+tagline: Meet the adult volunteers who lead and operate the cadet unit
 permalink: /team/
 categories: info
 header:
@@ -25,36 +25,29 @@ Captain (AAC) Alan Yeung joined the Australian Army Cadets in 2011, first as a v
 
 &nbsp;{:.cf}
 
-![Training Officer - Neale Hayes]({{"/assets/images/profiles/nh.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Training Officer - Campbell Yap]({{"/assets/images/profiles/cy.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
 #### Training Officer
-2LT (AAC) Neale Hayes
-
-&nbsp;{:.cf}
-
-![Quartermaster - Ken Poon]({{"/assets/images/profiles/kp.jpg"|absolute_url}}){:.align-left width="150" height="150"}
-
-#### Quartermaster
-2LT (AAC) Ken Poon
-
-
-&nbsp;{:.cf}
-
-![Administration Officer - Charisse Pulfer]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
-
-#### Administration Officer
-2LT (AAC) Charisse Pulfer
-
-&nbsp;{:.cf}
-
-![Assistant Training Officer - Campbell Yap]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
-
-#### Assistant Training Officer 
 2LT (AAC) Campbell Yap
 
 &nbsp;{:.cf}
 
-![Assistant Quartermaster - David Smyth]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Quartermaster - Charisse Pulfer]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
-#### Assistant Quartermaster
+#### Quartermaster
+LT (AAC) Charisse Pulfer
+
+
+&nbsp;{:.cf}
+
+![Administration Officer - vacant]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Administration Officer
+Position vacant
+
+&nbsp;{:.cf}
+
+![Assistant Training Officer - David Smyth]({{"/assets/images/profiles/ds.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Assistant Training Officer 
 2LT (AAC) David Smyth
