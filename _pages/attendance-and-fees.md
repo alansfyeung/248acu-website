@@ -56,7 +56,7 @@ We do _not_ recommend combining cadets with another highly involved commitment (
 
 248 ACU is supported materially and in-kind by Army/ADF who provide us with equipment, facilities and certain resources. However, as with all other cadet units in Australia, we do not receive direct funding, and instead rely on fundraising to enable our training and activities to happen. 
 
-248 ACU charges term fees of $75.00 per term (as of 2024). Some special/weekend activities may incur their own costs and fees. 
+248 ACU charges term fees of $65.00 per term (as of 2024). Some special/weekend activities may incur their own costs and fees. 
 
 To facilitate uniform and equipment issue, a $200.00 bond is collected and is refundable upon leaving cadets, provided uniforms and equipment are returned in good order.
 
