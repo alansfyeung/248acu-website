@@ -32,7 +32,7 @@ Captain (AAC) Alan Yeung joined the Australian Army Cadets in 2011, first as a v
 
 &nbsp;{:.cf}
 
-![Quartermaster - Charisse Pulfer]({{"/assets/images/profiles/coming-soon.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+![Quartermaster - Charisse Pulfer]({{"/assets/images/profiles/cp.jpg"|absolute_url}}){:.align-left width="150" height="150"}
 
 #### Quartermaster
 LT (AAC) Charisse Pulfer
@@ -44,6 +44,13 @@ LT (AAC) Charisse Pulfer
 
 #### Administration Officer
 Position vacant
+
+&nbsp;{:.cf}
+
+![Administration Officer - Ken Poon]({{"/assets/images/profiles/kp.jpg"|absolute_url}}){:.align-left width="150" height="150"}
+
+#### Assistant Administration Officer
+2LT (AAC) Ken Poon
 
 &nbsp;{:.cf}
 
