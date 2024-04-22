@@ -1,0 +1,45 @@
+.fees__credit-card {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.fees__box {
+    overflow: auto;
+    padding: 20px;
+    // min-width: 259px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.fees__box__title {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.fees__box__price {
+    font-size: 18px;
+    line-height: 20px;
+    .fees__box__price--amount {
+        font-weight: 600;
+    }
+}
+
+.fees__box__button {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 48px;
+    height: 48px;
+    color: #000000 !important;
+    text-decoration: none !important;
+    min-width: 212px;
+    background-color: #ffbf00;
+    text-align: center;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    border-radius: 6px;   
+}
