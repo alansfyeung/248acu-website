@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Frequently Asked Questions
-tagline: Read questions commonly asked by parents and prospective cadets
-description: Here are some questions commonly asked by parents and prospective cadets.
+tagline: Questions commonly asked by parents and prospective cadets
+description: |
+  What is the minimum age to join cadets? Are cadets part of the Army? Answers to these questions and more.
 permalink: /faq/
 categories: info
 header:
@@ -15,13 +16,14 @@ sidebar:
 # toc_sticky: True
 ---
 
-[How old do I need to be to join cadets?](#how-old-do-i-need-to-be-to-join-cadets)  
-[Are cadets part of the Army?](#are-cadets-part-of-the-army)  
-[Do you need to attend a certain high school to join cadets?](#do-you-need-to-attend-a-certain-high-school-to-join-cadets)  
-[Do cadets need to pass a fitness standard or a medical test?](#do-cadets-need-to-pass-a-fitness-standard-or-a-medical-test)  
-[Is cadets dangerous?](#is-cadets-dangerous)  
-[Can cadets go overseas?](#can-cadets-go-overseas)  
-[Can I help run cadets?](#can-i-help-run-cadets)  
+__Jump to a question:__
+- [How old do I need to be to join cadets?](#how-old-do-i-need-to-be-to-join-cadets)  
+- [Are cadets part of the Army?](#are-cadets-part-of-the-army)  
+- [Do you need to attend a certain high school to join cadets?](#do-you-need-to-attend-a-certain-high-school-to-join-cadets)  
+- [Do cadets need to pass a fitness standard or a medical test?](#do-cadets-need-to-pass-a-fitness-standard-or-a-medical-test)  
+- [Is cadets dangerous?](#is-cadets-dangerous)  
+- [Can cadets go overseas?](#can-cadets-go-overseas)  
+- [Can I join to help run cadets?](#can-i-join-to-help-run-cadet-activities)  
 
 ---
 
@@ -59,10 +61,13 @@ Adult leaders undergo rigorous training in youth safety, are qualified to provid
 
 Yes! When the opportunity arises, cadets from 248 ACU may attend overseas [exchange activities](https://www.facebook.com/203ACU/photos/a.374003996044265/1834504383327545/){:target=_blank}, such as going to the [United Kingdom](https://www.facebook.com/203ACU/photos/a.374003996044265/1834507163327267/){:target=_blank} and more. 
 
-## Can I help to run cadet activities?
+## Can I join to help run cadet activities?
 
 Our cadet unit is run by adult volunteers - Army Cadet Staff (ACS), Officers of Cadets (OOC) and Defence Approved Helpers (DAH) - who plan the operations and activities that cadets do. You need to be at least 18 years old. Our staff come from all kinds of different backgrounds! [Find out more]({% link _pages/volunteer.md %}) about volunteering in the Army Cadets.
 
-### Got a question not answered?
+
+---
+
+### Questions still not answered?
 
 Get in touch with us through our [contact page]({% link _pages/contact.md %}) - we'll be happy to help answer your questions.
