@@ -51,11 +51,14 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
+  font-size: $type-size-5;
+  line-height: 1.1;
 }
 
 .site-subtitle {
   display: block;
   font-size: $type-size-8;
+  opacity: 0.9;
 }
 
 .masthead__menu {
@@ -89,5 +92,24 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+
+  .cta {
+    border-radius: $border-radius * 2;
+    background-color: black;
+    color: white !important;
+    padding: 4px 16px;
+    transition: 250ms background;
+    &:hover, &:active {
+      background: lighten(black, 30%);
+    }
+    // Green variant
+    // Todo: Create mixin
+    &.cta-blue {
+      background-color: navy;
+      &:hover, &:active {
+        background: lighten(navy, 20%);
+      }
+    }
   }
 }

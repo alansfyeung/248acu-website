@@ -1,9 +1,10 @@
 # main links
 main:
-  - title: About
-    url: /about/
   - title: Join Cadets
     url: /join/
+    classes: cta
+  - title: About
+    url: /about/
   - title: News and Events
     url: /latest-news/
   - title: Contact Us
