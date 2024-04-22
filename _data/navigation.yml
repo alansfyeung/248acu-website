@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: Join Cadets
     url: /join/
-  - title: Latest News
+  - title: News and Events
     url: /latest-news/
   - title: Contact Us
     url: /contact/
@@ -44,7 +44,7 @@ articles:
         url: /downloads/
   - title: Content
     children:
-      - title: Latest News
+      - title: News and Events
         url: /latest-news/
       - title: All Categories
         url: /categories/

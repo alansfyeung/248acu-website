@@ -2,7 +2,7 @@
 layout: news
 news_category: home
 permalink: /latest-news/
-title: Latest News
+title: News and Events
 excerpt: Keep up to date with news from 248 ACU
 classes: wide
 header:
