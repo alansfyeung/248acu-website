@@ -95,20 +95,23 @@
   }
 
   .cta {
-    border-radius: $border-radius * 2;
-    background-color: black;
-    color: white !important;
-    padding: 4px 16px;
-    transition: 250ms background;
-    &:hover, &:active {
-      background: lighten(black, 30%);
-    }
-    // Green variant
-    // Todo: Create mixin
-    &.cta-blue {
-      background-color: navy;
+    @include breakpoint($medium) {
+      border-radius: $border-radius;
+      background-color: rgba(#3d3930, 0.52);
+      color: white !important;
+      padding: 4px 16px;
+      transition: 200ms background;
       &:hover, &:active {
-        background: lighten(navy, 20%);
+        background: rgba(#3d3930, 0.68);
+        // border-bottom-color: #3d3930;
+      }
+      // Green variant
+      // Todo: Create mixin
+      &.cta-blue {
+        background-color: navy;
+        &:hover, &:active {
+          background: lighten(navy, 20%);
+        }
       }
     }
   }
