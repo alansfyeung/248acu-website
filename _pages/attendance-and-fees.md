@@ -68,6 +68,8 @@ Please make direct deposit payments to the following bank account:
 
 {% include bank-account.html %}
 
+--- 
+
 __More questions?__
 
 Got questions not answered here? You might find answers on our [Frequently Asked Questions (FAQ) page]({% link _pages/faq.md %}).
