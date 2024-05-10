@@ -17,7 +17,7 @@ sidebar:
 #### Officer Commanding 
 Captain (AAC) Alan Yeung 
 
-[Read the OC's opening address]({% link _posts/2022-08-15-ocs-address.md %}){:.btn.btn--primary}
+[Read the OC's opening address]({% link _posts/2022/2022-08-15-ocs-address.md %}){:.btn.btn--primary}
 
 &nbsp;{:.cf}
 
