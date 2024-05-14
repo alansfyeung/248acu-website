@@ -16,3 +16,9 @@ redirect_from:
 Please make direct deposit payments to the following bank account: 
 
 {% include bank-account.html %}
+
+---
+
+## Related topics
+
+- [Credit Card payments]({% link _pages/payments.md %})
