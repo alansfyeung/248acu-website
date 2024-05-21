@@ -27,14 +27,14 @@ sidebar:
 
   <div class="fees__box">
       <p class="fees__box__title">Term Fees - Annual (4 Terms) Once-off</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$260.00</span> <small>+ surcharge</small></p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ surcharge</small></p>
       <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embd" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__box__button">Pay Once</a>
   </div>
 
   <div class="fees__box">
       <p class="fees__box__title">Term Fees - Annual (4 Terms) Recurring</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$260.00</span> annually <small>+ surcharge</small></p>
-      <a target="_blank" data-url="https://square.link/u/79BLCsBv?src=embd" href="https://square.link/u/79BLCsBv?src=embed" class="square-checkout-button fees__box__button">Set up payments</a>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> annually <small>+ surcharge</small></p>
+      <a target="_blank" data-url="https://square.link/u/sKTfBsx8?src=embd" href="https://square.link/u/sKTfBsx8?src=embed" class="square-checkout-button fees__box__button">Set up payments</a>
   </div>
 
 </div>
