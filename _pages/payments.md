@@ -39,7 +39,9 @@ sidebar:
 
 </div>
 
-Our online credit card payments are processed securely through Square. A card processing surcharge of 2% applies to credit card payments, so that your full amount of term fees or activity fees goes towards supporting cadets at the unit. Thank you for your understanding.
+Our online credit card payments are processed securely through Square. 
+
+<small>A card processing surcharge of 2% applies to credit card payments, so that your full amount of term fees or activity fees goes towards supporting cadets at the unit. Thank you for your understanding.</small>
 
 ---
 
