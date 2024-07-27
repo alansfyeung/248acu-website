@@ -4,7 +4,7 @@ title: Term 1 2023 Open Day and Enrolment Dates
 categories: event home
 excerpt: Find out more about joining cadets in Term 1 2023
 header:
-  teaser: assets/images/teasers/vbs-paradenight-2.jpg
+  teaser: assets/images/thumbnails/vbs-paradenight-2.jpg
 ---
 
 

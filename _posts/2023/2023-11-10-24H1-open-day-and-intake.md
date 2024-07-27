@@ -4,7 +4,7 @@ title: Term 1 2024 Open Day and Enrolment Dates
 categories: event home
 excerpt: Your next chance to join cadets will be in Term 1 2024
 header:
-  teaser: assets/images/teasers/cadets-anzac-2.jpg
+  teaser: assets/images/thumbnails/cadets-anzac-2.jpg
 ---
 
 [Start your application now]({{site.data.links.cadet_eoi_url}}){: .btn .btn--success}

@@ -5,7 +5,7 @@ categories: home announcement promotions
 excerpt: Congratulations to award winners and cadets promoted on parade
 header:
   overlay_image: assets/images/overlays/annual-parade-2023.jpg
-  teaser: assets/images/teasers/annual-parade-2023-1.jpg
+  teaser: assets/images/thumbnails/annual-parade-2023-1.jpg
 ---
 
 ## 2023 Unit Awards

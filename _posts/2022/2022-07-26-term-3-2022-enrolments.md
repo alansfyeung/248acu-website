@@ -4,7 +4,7 @@ title: Enrol for Term 3, 2022
 categories: event home
 excerpt: Enrolments are open until 14 Aug
 header:
-  teaser: assets/images/teasers/recruits-biv-1.jpg
+  teaser: assets/images/thumbnails/recruits-biv-1.jpg
 ---
 
 248 Army Cadet Unit is now accepting enrolments throughout the early weeks of Term 3. If you'd like to join 248 ACU then you should submit your Expression of Interest here: 

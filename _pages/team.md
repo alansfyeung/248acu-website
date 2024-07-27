@@ -5,7 +5,7 @@ tagline: Meet the adult volunteers who lead and operate the cadet unit
 permalink: /team/
 categories: info
 header:
-  teaser: /assets/images/teasers/vbs-cadets-1.jpg
+  teaser: /assets/images/thumbnails/vbs-cadets-1.jpg
 sidebar:
   nav: articles
 ---

@@ -4,7 +4,7 @@ title: 248 ACU cadets on promotion Courses
 categories: news home promotions
 excerpt: During the July 2024 school holidays, six cadets and one ACS from 248 ACU attended the NSW Brigade Promotion Courses
 header:
-  teaser: assets/images/teasers/promos-july-2024.jpg
+  teaser: assets/images/thumbnails/promos-july-2024.jpg
 ---
 
 One of the most exciting aspects of cadets is being [promoted in rank]({% link _pages/ranks-in-the-aac.md %}), unlocking new experiences and leadership opportunities. To qualify for their promotion, cadets typically need to complete a course. To reach the ranks of Cadet Corporal (CDTCPL), Cadet Sergeant (CDTSGT) and Cadet Warrant Officer (CDTWO2/CDTWO1) or Cadet Under Officer (CUO), cadets are required to complete a one-week course. 

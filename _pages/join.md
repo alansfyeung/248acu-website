@@ -9,7 +9,7 @@ categories: joining
 header:
   overlay_image: /assets/images/overlays/cadets-cuo.jpg
   overlay_filter: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,.1) 100%)
-  teaser: /assets/images/teasers/248acu-how-to-join-cadets.jpg
+  teaser: /assets/images/thumbnails/248acu-how-to-join-cadets.jpg
 sidebar:
   nav: articles
 ---

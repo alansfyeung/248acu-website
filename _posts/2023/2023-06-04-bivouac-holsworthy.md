@@ -4,7 +4,7 @@ title: 248 ACU Unit Bivouac
 categories: event home
 excerpt: In June 2023, 248 ACU conducted a joint weekend bivouac (field exercise)
 header:
-  teaser: assets/images/teasers/recruits-biv-2.jpg
+  teaser: assets/images/thumbnails/recruits-biv-2.jpg
 ---
 
 In June 2023, 248 ACU conducted a joint weekend bivouac (field exercise) with 204 ACU Parramatta. For many cadet participants, this was their first taste of living and operating in the field. 

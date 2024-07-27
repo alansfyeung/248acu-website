@@ -5,7 +5,7 @@ title: Become an Adult Leader in the Army Cadets
 excerpt: Army Cadets is run by adult volunteers of all backgrounds. Join and make a difference in the local community.
 categories: joining
 header:
-  teaser: /assets/images/teasers/248acu-adult-volunteer.jpg
+  teaser: /assets/images/thumbnails/248acu-adult-volunteer.jpg
 sidebar:
   nav: articles
 ---

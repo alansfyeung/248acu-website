@@ -4,7 +4,7 @@ title: NSW Active Kids Vouchers
 categories: announcement home
 excerpt: 248 ACU now accepts NSW Active Kids Vouchers
 header:
-  teaser: assets/images/teasers/nsw-active-kids.jpg
+  teaser: assets/images/thumbnails/nsw-active-kids.jpg
 ---
 
 ![We accept Active Kids vouchers]({{ 'assets/images/active-kids/active-kids-socialmedia-english-1080x1080_2_0.png' | absolute_url }})
