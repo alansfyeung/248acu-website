@@ -1,7 +1,4 @@
 .page__title {
-  span {
-    background: none;
-  }
   // background: $backdrop-color;
   // backdrop-filter: blur(2px);
   // border-radius: 20px;
@@ -14,6 +11,9 @@
   line-height: 85%;
   padding: 8px 10px;
   position: relative;
+  span {
+    background: none;
+  }
   @include breakpoint($small) {
     word-spacing: initial;
     font-size: 60px;
@@ -51,12 +51,12 @@
   }
 }
 .page__lead {
-  span {
-    background: none;
-  }
   font-family: $bodoni;
   display: none;
   text-align: center;
+  span {
+    background: none;
+  }
   @include breakpoint($small) {
     display: block;
     text-align: right;
