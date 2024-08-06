@@ -3,7 +3,7 @@ layout: single
 title: Make a payment to 248 ACU
 tagline: |
   We accept electronic payment for term fees and activity fees, including credit card payments and bank transfers.
-description: Make credit card payments online to 248 ACU for term fees and activitry fees
+description: Make online credit card or EFT payments to 248 ACU for term fees and activity fees
 permalink: /payments/
 categories: info payment
 sidebar:
@@ -27,7 +27,7 @@ sidebar:
       </div>
   </div>
   <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Annual (Four Terms upfront)  &nbsp;&nbsp;<small>Save $20.00</small></p>
+      <p class="fees__box__title">Term Fees - Annual (4 terms upfront)  &nbsp;&nbsp;<small>Save $20.00</small></p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ surcharge</small></p>
       <div class="fees__button-group">
         <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embd" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Once</a>
