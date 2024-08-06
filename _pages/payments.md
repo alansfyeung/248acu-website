@@ -10,44 +10,75 @@ sidebar:
   nav: articles
 ---
 
-## Credit Card payments
+
+## Credit Card Payments
+
+<small><strong>Our online credit card payments are processed securely through Square.</strong> A card processing surcharge of 2% applies to credit card payments, so that your full amount of term fees or activity fees goes towards supporting cadets at the unit. Thank you for your understanding.</small>
+
+### Term Fees
 
 <div class="fees__credit-card">
   <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Single Term Once-off</p>
+      <p class="fees__box__title">Term Fees - Single Term</p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ surcharge</small></p>
-      <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embd" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__box__button">Pay Once</a>
+      <div class="fees__button-group">
+        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embd" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Once</a>
+        <a target="_blank" data-url="https://square.link/u/J6nlNKC9?src=embd" href="https://square.link/u/J6nlNKC9?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+      </div>
   </div>
-
   <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Single Term Recurring</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> per quarter <small>+ surcharge</small></p>
-      <a target="_blank" data-url="https://square.link/u/J6nlNKC9?src=embd" href="https://square.link/u/J6nlNKC9?src=embed" class="square-checkout-button fees__box__button">Set up payments</a>
-  </div>
-
-  <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Annual (4 Terms) Once-off</p>
+      <p class="fees__box__title">Term Fees - Annual (Four Terms upfront)  &nbsp;&nbsp;<small>Save $20.00</small></p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ surcharge</small></p>
-      <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embd" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__box__button">Pay Once</a>
+      <div class="fees__button-group">
+        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embd" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Once</a>
+        <a target="_blank" data-url="https://square.link/u/sKTfBsx8?src=embd" href="https://square.link/u/sKTfBsx8?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+      </div>
   </div>
-
-  <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Annual (4 Terms) Recurring</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> annually <small>+ surcharge</small></p>
-      <a target="_blank" data-url="https://square.link/u/sKTfBsx8?src=embd" href="https://square.link/u/sKTfBsx8?src=embed" class="square-checkout-button fees__box__button">Set up payments</a>
-  </div>
-
 </div>
 
-Our online credit card payments are processed securely through Square. 
 
-<small>A card processing surcharge of 2% applies to credit card payments, so that your full amount of term fees or activity fees goes towards supporting cadets at the unit. Thank you for your understanding.</small>
+### Joining Fees
+
+<div class="fees__credit-card">
+  <div class="fees__box">
+      <p class="fees__box__title">Deposit for Uniform and Equipment Issue </p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$200.00</span> <small>+ surcharge</small></p>
+      <div class="fees__button-group">
+        <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embd" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
+      </div>
+  </div>
+  <div class="fees__box">
+      <p class="fees__box__title">Unit Emblem Undershirt <small>(optional)</small></p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$30.00</span> <small>+ surcharge</small></p>
+      <div class="fees__button-group">
+        <a target="_blank" data-url="https://square.link/u/MlhHex1A?src=embed" href="https://square.link/u/MlhHex1A?src=embed" class="square-checkout-button fees__button">Order now</a>
+      </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
 ## Bank transfer (Electronic Funds Transfer/EFT) payments
 
 {% include bank-account.html %}
+
+<small>No surchage is applied or required when making payments through bank transfer/EFT.</small>
 
 When making bank transfer, please include your child's surname in the description as well as the words "Term Fees". We encourage you to set up a scheduled payment through your online banking to avoid a missed payment.
 
