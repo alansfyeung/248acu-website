@@ -13,38 +13,47 @@ sidebar:
 
 ## Credit Card Payments
 
-<small><strong>Our online credit card payments are processed securely through Square.</strong> A card processing surcharge of 2% applies to credit card payments, so that your full amount of term fees or activity fees goes towards supporting cadets at the unit. Thank you for your understanding.</small>
+<p class="small"><strong>Our online credit card payments are processed securely through Square.</strong> A card processing surcharge of 2.2% applies to credit card payments, so that your full amount of fees goes towards supporting our operations. Thank you for your understanding.</p>
 
-### Term Fees
+### Term Fees 
+
+Term fees are your regular contributions that enable us to fund our classroom learning, unit-owned field equipment, awards and prizes, and more. All cadets participating at 248 ACU are required to contribute these term fees.
 
 <div class="fees__credit-card">
   <div class="fees__box">
       <p class="fees__box__title">Term Fees - Single Term</p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ surcharge</small></p>
       <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embd" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Once</a>
-        <a target="_blank" data-url="https://square.link/u/J6nlNKC9?src=embd" href="https://square.link/u/J6nlNKC9?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Once</a>
+        <a target="_blank" data-url="https://square.link/u/WLi6h1Jy?src=embed" href="https://square.link/u/WLi6h1Jy?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
       </div>
   </div>
   <div class="fees__box">
       <p class="fees__box__title">Term Fees - Annual (4 terms upfront)  &nbsp;&nbsp;<small>Save $20.00</small></p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ surcharge</small></p>
       <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embd" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Once</a>
-        <a target="_blank" data-url="https://square.link/u/sKTfBsx8?src=embd" href="https://square.link/u/sKTfBsx8?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embed" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Once</a>
+        <a target="_blank" data-url="https://square.link/u/ZaiQsbyd?src=embed" href="https://square.link/u/ZaiQsbyd?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
       </div>
   </div>
 </div>
 
 
+### Activity Fees 
+
+There are currently no activities requiring payments. 
+
+
 ### Joining Fees
+
+Joining fees are a once-off payment made when a cadet joins the cadet unit. 
 
 <div class="fees__credit-card">
   <div class="fees__box">
-      <p class="fees__box__title">Deposit for Uniform and Equipment Issue </p>
+      <p class="fees__box__title">Deposit for Uniform and Equipment Issue (only)</p>
       <p class="fees__box__price"><span class="fees__box__price--amount">$200.00</span> <small>+ surcharge</small></p>
       <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embd" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
+        <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embed" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
       </div>
   </div>
   <div class="fees__box">
@@ -55,21 +64,6 @@ sidebar:
       </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
