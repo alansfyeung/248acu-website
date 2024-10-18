@@ -22,18 +22,16 @@ Term fees are your regular contributions that enable us to fund our classroom le
 <div class="fees__credit-card">
   <div class="fees__box">
       <p class="fees__box__title">Term Fees - Single Term</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ surcharge</small></p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ processing fee</small></p>
       <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Once</a>
-        <a target="_blank" data-url="https://square.link/u/WLi6h1Jy?src=embed" href="https://square.link/u/WLi6h1Jy?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Now</a>
       </div>
   </div>
   <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Annual (4 terms upfront)  &nbsp;&nbsp;<small>Save $20.00</small></p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ surcharge</small></p>
+      <p class="fees__box__title">Term Fees - Annual (4 terms upfront)  &nbsp;&nbsp;<small style="color: #27ae60">Save $20.00</small></p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ processing fee</small></p>
       <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embed" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Once</a>
-        <a target="_blank" data-url="https://square.link/u/ZaiQsbyd?src=embed" href="https://square.link/u/ZaiQsbyd?src=embed" class="square-checkout-button fees__button fees__button--alt">Recurring payments</a>
+        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embed" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Now</a>
       </div>
   </div>
 </div>
@@ -46,21 +44,14 @@ There are currently no activities requiring payments.
 
 ### Joining Fees
 
-Joining fees are a once-off payment made when a cadet joins the cadet unit. 
+Joining fees are a once-off payment when your child joins 248 ACU. The amount includes: $200.00 refundable deposit, unit undershirt, training platoon patches, and costs for the recruit basic training weekend. 
 
 <div class="fees__credit-card">
   <div class="fees__box">
-      <p class="fees__box__title">Deposit for Uniform and Equipment Issue (only)</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$200.00</span> <small>+ surcharge</small></p>
+      <p class="fees__box__title">Joining Fees</p>
+      <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span> <small>+ processing fee</small></p>
       <div class="fees__button-group">
         <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embed" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
-      </div>
-  </div>
-  <div class="fees__box">
-      <p class="fees__box__title">Unit Emblem Undershirt <small>(optional)</small></p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$30.00</span> <small>+ surcharge</small></p>
-      <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/MlhHex1A?src=embed" href="https://square.link/u/MlhHex1A?src=embed" class="square-checkout-button fees__button">Order now</a>
       </div>
   </div>
 </div>
