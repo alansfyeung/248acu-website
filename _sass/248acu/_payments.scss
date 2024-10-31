@@ -13,20 +13,21 @@
     border-radius: 10px;
     font-family: Roboto, Arial, sans-serif;
     margin-bottom: 10px;
-}
 
-.fees__box__title {
-    font-size: 18px;
-    line-height: 20px;
-}
+    &__title {
+        font-size: 18px;
+        line-height: 20px;
+    }
 
-.fees__box__price {
-    font-size: 18px;
-    line-height: 20px;
-    height: 40px;
-    .fees__box__price--amount {
-        font-size: 1.45em;
-        font-weight: 600;
+    &__price {
+        font-size: 18px;
+        line-height: 20px;
+        height: 40px;
+
+        &--amount {
+            font-size: 1.45em;
+            font-weight: 600;
+        }
     }
 }
 
@@ -40,16 +41,22 @@
     min-width: 212px;
     background-color: #ffbf00;
     text-align: center;
-    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .1) inset;
     border-radius: 6px;
-    &.fees__button--alt {
+
+    &--green {
         background-color: #00ad74;
         color: white !important;
     }
-}
 
-.fees__button-group {
-    display: flex;
-    align-items: center;
-    gap: 10px;
+    &--blue {
+        background: #2980b9;
+        color: white !important;
+    }
+
+    &-group {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
 }

@@ -27,19 +27,12 @@ Term fees are your regular contributions that enable us to fund our classroom le
         <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Now</a>
       </div>
   </div>
-  <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Annual (4 terms upfront)  &nbsp;&nbsp;<small style="color: #27ae60">Save $20.00</small></p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$240.00</span> <small>+ processing fee</small></p>
-      <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embed" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Now</a>
-      </div>
-  </div>
 </div>
 
 
 ### Activity Fees 
 
-There are currently no activities requiring payments. 
+No activities are open for payment. Please check back later.
 
 
 ### Joining Fees
