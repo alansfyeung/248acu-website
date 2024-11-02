@@ -1,0 +1,13 @@
+.wrapper {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.slider-wrapper {
+    margin-top: 1em;
+    max-height: 800px;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+}

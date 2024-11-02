@@ -8,5 +8,8 @@ body.layout--home {
     .page__hero--2023h1-open-day {
       @import "./hero/_2023h1-open-day.scss";
     }
+    .page__hero--slider-2025 {
+      @import "./hero/_slider-2025.scss";
+    }
   }
 }

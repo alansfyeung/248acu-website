@@ -1,5 +1,47 @@
-{% include page__hero.html %}
+<div class="page__hero page__hero--slider-2025">
+  <div class="wrapper">
+    <div id="hero-slider" class="slider-wrapper">
+      {% for image in page.slider_images %}
+      <div><img src="{{ image.src | relative_url }}" alt="{{ image.alt }}"></div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script defer type="text/javascript">
+  $(function() {
+    $('#hero-slider').slick({
+      dots: true,
+      infinite: true,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      speed: 500,
+      fade: true,
+      cssEase: 'linear'
+    });
+  });
+</script>
 
 {% comment %}
+{% include page__hero.html %}
 {% include page__hero_video.html %}
+
+<div class="page__hero--2023h1-open-day">
+  <div class="wrapper">
+    <div class="wrapper__content">
+      <h1 id="page-title" class="page__title" itemprop="headline">2024 Open Day</h1>
+      <p class="page__lead">
+        10:30am, Saturday 17 February at Victoria Barracks, Sydney <br>
+        <small>(Entry via Oxford St cnr Shadforth St only)</small>
+      </p>
+      <div>
+        <a class="btn btn--link" href="{% link _posts/2023-11-10-24H1-open-day-and-intake.md %}">More information</a>
+        <a class="btn btn--success" href="{{ site.data.links.open_day_google_form_url }}" target="_blank">📝 Register
+          now</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 {% endcomment %}
