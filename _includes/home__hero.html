@@ -1,5 +1,9 @@
 <div class="page__hero page__hero--slider-2025">
   <div class="wrapper">
+    <div class="wrapper__persistent-banner">
+      <img src="{{ '/assets/images/logos/248acu-logo.png' | relative_url}}" alt="Emblem">
+      <span>248 Army Cadet Unit</span>
+    </div>
     <div id="hero-slider" class="carousel">
       {% for slide in page.slider_images %}
       <div class="carousel__slide" style="background-image: url({{ slide.src | relative_url }})">

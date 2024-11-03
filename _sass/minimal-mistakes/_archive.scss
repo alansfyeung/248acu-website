@@ -22,7 +22,7 @@
   position: relative;
 
   a {
-    position: relative;
+    // position: relative;
     z-index: 10;
   }
 
@@ -74,7 +74,10 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
+  line-height: $type-size-4;
+
+  color: $gray;
 
   & + p {
     text-indent: 0;
@@ -82,6 +85,10 @@
 
   a {
     position: relative;
+  }
+
+  &:first-child {
+    margin-top: 1em;
   }
 }
 
@@ -98,17 +105,17 @@
 .archive__item-caption {
   position: absolute;
   bottom: 0;
-  right: 0;
+  left: 0;
   margin: 0 auto;
-  padding: 2px 5px;
+  padding: 2px 7px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-8;
+  font-size: $type-size-6;
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
-  border-radius: $border-radius 0 0 0;
+  opacity: 0.7;
+  border-radius: 0 $border-radius 0 0;
 
   @include breakpoint($large) {
     padding: 5px 10px;
