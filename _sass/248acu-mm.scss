@@ -39,7 +39,14 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-/* 248 ACU custom - but I still want to utilize variables, etc */
+/* 248 ACU page-specific styles */
 @import "248acu/badge-of-rank";
 @import "248acu/layout--home";
 @import "248acu/payments";
+
+/* Slick slider image carousel */
+$slick-font-family: $sans-serif;
+$slick-font-path: "/assets/slick/fonts/";
+$slick-loader-path: "/assets/slick/";
+@import "slick/slick-theme"; // slick slider theme
+@import "slick/slick"; // slick slider

@@ -7,9 +7,4 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-$slick-font-path: "/assets/slick/fonts/";
-$slick-loader-path: "/assets/slick/";
-@import "slick/slick-theme"; // slick slider theme
-@import "slick/slick"; // slick slider
+@import "248acu-mm"; // Minimal Mistakes x 248 ACU
