@@ -1,13 +1,62 @@
+& {
+    // Hide this slider on smaller, mobile screens.
+    display: none;
+    @include breakpoint($small) {
+        display: block;
+    }
+}
+
 .wrapper {
     width: 100%;
-    max-width: 1280px;
+    max-width: $max-width;
     margin: 0 auto;
     padding-left: 1em;
     padding-right: 1em;
 }
-.slider-wrapper {
+
+.carousel {
     margin-top: 1em;
     max-height: 800px;
     border: 1px solid $light-gray;
     border-radius: $border-radius;
+    position: relative;
+
+    &__slide {
+        position: relative;
+
+        background-color: transparent;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        width: 100%;
+        height: 400px;
+
+        @include breakpoint($medium) {
+            height: 500px;
+        }
+
+        @include breakpoint($large) {
+            height: 600px;
+        }
+    }
+
+    &__overlay {
+        // Absolute positioned overlay with 70% black background.
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(#000, 0.5);
+
+        &__caption {
+            position: absolute;
+            display: inline-block;
+            font-family: 'Boston Traffic', Arial, sans-serif;
+            color: white;
+            line-height: 1;
+            font-size: $type-size-1; // Will likely be overridden by inline styles
+        }
+    }
 }

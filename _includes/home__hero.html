@@ -1,8 +1,18 @@
 <div class="page__hero page__hero--slider-2025">
   <div class="wrapper">
-    <div id="hero-slider" class="slider-wrapper">
-      {% for image in page.slider_images %}
-      <div><img src="{{ image.src | relative_url }}" alt="{{ image.alt }}"></div>
+    <div id="hero-slider" class="carousel">
+      {% for slide in page.slider_images %}
+      <div class="carousel__slide" style="background-image: url({{ slide.src | relative_url }})">
+        {% if slide.captions %}
+        <div class="carousel__overlay">
+          {% for caption in slide.captions %}
+          <div class="carousel__overlay__caption" style="{{ caption.style }}">
+            {{ caption.text }}
+          </div>
+          {% endfor %}  
+        </div>
+        {% endif %}
+      </div>
       {% endfor %}
     </div>
   </div>
@@ -11,10 +21,10 @@
 <script defer type="text/javascript">
   $(function() {
     $('#hero-slider').slick({
-      dots: true,
+      dots: false,
       infinite: true,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 1e5,
       speed: 500,
       fade: true,
       cssEase: 'linear'
