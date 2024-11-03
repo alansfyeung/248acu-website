@@ -4,12 +4,12 @@
       {% for slide in page.slider_images %}
       <div class="carousel__slide" style="background-image: url({{ slide.src | relative_url }})">
         {% if slide.captions %}
-        <div class="carousel__overlay">
+        <div class="carousel__overlay carousel__overlay--shown">
           {% for caption in slide.captions %}
           <div class="carousel__overlay__caption" style="{{ caption.style }}">
             {{ caption.text }}
           </div>
-          {% endfor %}  
+          {% endfor %}
         </div>
         {% endif %}
       </div>
@@ -19,15 +19,22 @@
 </div>
 
 <script defer type="text/javascript">
-  $(function() {
-    $('#hero-slider').slick({
+  $(function () {
+    const showOverlay = ($el) => $el.find('.carousel__overlay').addClass('carousel__overlay--shown');
+    const hideOverlay = ($el) => $el.find('.carousel__overlay').removeClass('carousel__overlay--shown');
+
+    $('#hero-slider.carousel').slick({
       dots: false,
       infinite: true,
       autoplay: true,
-      autoplaySpeed: 1e5,
-      speed: 500,
+      autoplaySpeed: 6e3,
+      speed: 1e3,
       fade: true,
       cssEase: 'linear'
+    }).on('beforeChange', function (event, { $slides }, currentSlide, nextSlide) {
+      hideOverlay($($slides[nextSlide]));
+    }).on('afterChange', function (event, { $slides }, currentSlide) {
+      showOverlay($($slides[currentSlide]));
     });
   });
 </script>

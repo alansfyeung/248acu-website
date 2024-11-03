@@ -42,13 +42,22 @@
     }
 
     &__overlay {
+        animation: none;
+        opacity: 0;
+
         // Absolute positioned overlay with 70% black background.
         position: absolute;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: rgba(#000, 0.5);
+        background-color: rgba(#000, 0.4);
+
+        // This modifier class will be toggled on the overlay to show it with an animation.
+        &--shown {
+            // Fade in animation effect with 2s delay and 2s duration 
+            animation: intro 1s ease-in 1s forwards;
+        }
 
         &__caption {
             position: absolute;
