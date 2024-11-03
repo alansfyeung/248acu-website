@@ -8,6 +8,7 @@ header:
   hero_title: Australian Army Cadets
   hero_tagline: Developing Australia's Future Leaders
   overlay_image: /assets/images/home/248acu-home-banner.jpg
+  
 slider_images:
   - src: /assets/images/home/banner-2025/banner-2025-1.jpg
     captions: 
@@ -77,23 +78,25 @@ slider_images:
         max-width: 560px;
         right: 20px;
         bottom: 20px;
+
 feature_row:
   - image_path: /assets/images/thumbnails/248acu-about-army-cadets.jpg
-    alt: "Army cadets on Anzac Day parade"
-    title: "About Army Cadets"
-    excerpt: "What does an Army Cadet Unit do?"
+    alt: "About Army Cadets"
+    image_caption: "About Us"
+    excerpt: "What kinds of activities do we do, and how regularly do we meet?"
     img_url: /about/
   - image_path: /assets/images/thumbnails/248acu-how-to-join-cadets.jpg
-    alt: "Army cadets in the bush doing field training"
-    title: "How to Join Cadets"
-    excerpt: "Join 248 ACU or transfer to our unit!"
+    alt: "How to Join Cadets"
+    image_caption: "Join Cadets"
+    excerpt: "Join 248 ACU and begin your recruit journey. Ages 13-17 welcome."
     img_url: /join/
   - image_path: /assets/images/thumbnails/248acu-adult-volunteer.jpg
-    alt: "An adult Officer of Cadets is a community volunteer"
-    title: "Become a volunteer"
-    excerpt: "248 ACU is run by adult volunteer leaders"
+    alt: "Become an adult volunteer"
+    image_caption: "Volunteering"
+    excerpt: "We're seeking youth leaders and adult volunteers to join our team."
     img_url: /volunteer/
-entries_layout: grid  # for the news
+
+entries_layout: grid # for the news
 ---
 
 {% comment %}
@@ -101,8 +104,8 @@ entries_layout: grid  # for the news
   #rsvp-dec-2023 {
     background: #870000;
     box-shadow: inset 0 10px 24px #3d1d01;
-    color: white; 
-    padding: 16px 20px; 
+    color: white;
+    padding: 16px 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     display: flex;
@@ -112,10 +115,12 @@ entries_layout: grid  # for the news
     font-size: 22px;
     font-weight: bold;
   }
+
   #rsvp-dec-2023 hr {
     border-color: white;
     border-width: 2px;
   }
+
   @media (max-width: 768px) {
     #rsvp-dec-2023 {
       text-align: center;
@@ -123,6 +128,7 @@ entries_layout: grid  # for the news
       gap: 10px;
       font-size: 18px;
     }
+
     #rsvp-dec-2023 hr {
       display: none;
     }
@@ -132,7 +138,8 @@ entries_layout: grid  # for the news
 <div id="rsvp-dec-2023">
   <hr style="width: 60px;">
   <div>Sunday 17 December: Visitor Registration Form</div>
-  <a class="btn btn--large btn--light-outline" href="https://forms.gle/WVq7eQCVK5fxH95E8" target="_blank">Register here</a>
+  <a class="btn btn--large btn--light-outline" href="https://forms.gle/WVq7eQCVK5fxH95E8" target="_blank">Register
+    here</a>
   <hr style="width: 60px;">
 </div>
 
@@ -147,13 +154,16 @@ entries_layout: grid  # for the news
 
 <article class="headlines" style="margin-bottom: 2em;">
   <h4 style="font-size: 1.1em">
-    248 Army Cadet Unit City of Sydney (Gadigal) is located at Victoria Barracks, Sydney 
-    in Paddington with cadets aged 13-18 from local high schools and the wider community. 
+    248 Army Cadet Unit City of Sydney (Gadigal) is located at Victoria Barracks, Sydney
+    in Paddington with cadets aged 13-18 from local high schools and the wider community.
     <span style="color: #777;">{% include next_intake.html %}</span>
   </h4>
 </article>
 
-{% include feature_row %}
+<section>
+  <h3 class="archive__subtitle">Featured Articles</h3>
+  {% include feature_row.html %}
+</section>
 
 <h3 class="archive__subtitle">
   <a href="{% link _pages/latest-news.md %}" style="float: right">All news &rarr;</a>
