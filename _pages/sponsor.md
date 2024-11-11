@@ -13,7 +13,7 @@ sidebar:
 
 ## Our Financial Sponsors
 
-![Woollahra Municipal Council]({{'/assets/images/sponsors/wmc-blue.jpg'}})
+![Woollahra Municipal Council - 2023]({{'/assets/images/sponsors/wmc-blue.jpg'}})
 
 ---
 

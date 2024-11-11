@@ -21,10 +21,10 @@ __Contacting us__
 Questions about our unit's online privacy policy may be directed to our email address, or mailed to:
 
 Postal address:  
-248 Army Cadet Unit  
-Building 11  
-Victoria Barracks Sydney  
-10 Oxford St, Paddington NSW 2021  
+Building 11, 248 Army Cadet Unit  
+Victoria Barracks Sydney
+34A Moore Park Rd
+Paddington NSW 2021  
 
 
 ## Disclaimer
