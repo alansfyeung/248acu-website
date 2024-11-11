@@ -15,39 +15,53 @@ sidebar:
 
 <p class="small"><strong>Our online credit card payments are processed securely through Square.</strong> A card processing surcharge of 2.2% applies to credit card payments, so that your full amount of fees goes towards supporting our operations. Thank you for your understanding.</p>
 
-### Term Fees 
 
-Term fees are your regular contributions that enable us to fund our classroom learning, unit-owned field equipment, awards and prizes, and more. All cadets participating at 248 ACU are required to contribute these term fees.
+<details>
+  <summary><h3>Term Fees</h3></summary>
 
-<div class="fees__credit-card">
-  <div class="fees__box">
-      <p class="fees__box__title">Term Fees - Single Term</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ processing fee</small></p>
-      <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Now</a>
-      </div>
+  <p>
+    Term fees are your regular contributions that enable us to fund our classroom learning, unit-owned field equipment, awards and prizes, and more. All cadets participating at 248 ACU are required to contribute these term fees.
+  </p>
+
+  <div class="fees__payment-link">
+    <div class="fees__box">
+        <p class="fees__box__title">Term Fees - Single Term</p>
+        <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ processing fee</small></p>
+        <div class="fees__button-group">
+          <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Now</a>
+        </div>
+    </div>
   </div>
-</div>
+
+</details>
 
 
-### Activity Fees 
+<details>
+  <summary><h3>Activity Fees </h3></summary>
 
-No activities are open for payment. Please check back later.
+  <p>
+    No activities are open for payment. Please check back later.
+  </p>
+
+</details>
 
 
-### Joining Fees
+<details>
+  <summary><h3>Joining Fees</h3></summary>
 
-Joining fees are a once-off payment when your child joins 248 ACU. The amount includes: $200.00 refundable deposit, unit undershirt, training platoon patches, and costs for the recruit basic training weekend. 
+  <p>
+    Joining fees are a once-off payment when your child joins 248 ACU. The amount includes: $200.00 refundable deposit, unit undershirt, training platoon patches, and costs for the recruit basic training weekend. 
+  </p>
 
-<div class="fees__credit-card">
-  <div class="fees__box">
-      <p class="fees__box__title">Joining Fees</p>
-      <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span> <small>+ processing fee</small></p>
-      <div class="fees__button-group">
-        <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embed" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
-      </div>
+  <div class="fees__payment-link">
+    <div class="fees__box">
+        <p class="fees__box__title">Joining Fees</p>
+        <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span> <small>+ processing fee</small></p>
+        <div class="fees__button-group">
+          <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embed" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
+        </div>
+    </div>
   </div>
-</div>
 
 
 ---
