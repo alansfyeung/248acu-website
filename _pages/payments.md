@@ -13,7 +13,10 @@ sidebar:
 
 ## Credit Card Payments
 
-<p class="small"><strong>Our online credit card payments are processed securely through Square.</strong> A card processing surcharge of 2.2% applies to credit card payments, so that your full amount of fees goes towards supporting our operations. Thank you for your understanding.</p>
+<div class="well">
+  <strong>Our online credit card payments are processed securely through Square.</strong> 
+  A card processing surcharge of 2.2% applies to credit card payments, so that your full amount of fees goes towards supporting us. Thank you for your understanding.
+</div>
 
 
 <details>
@@ -73,10 +76,10 @@ sidebar:
 
   <div class="fees__payment-link">
     <div class="fees__box">
-        <p class="fees__box__title">Hoodie pre-order - 2024</p>
+        <p class="fees__box__title">Hoodie pre-order 2024</p>
         <p class="fees__box__price"><span class="fees__box__price--amount">$60.00</span>  <small>when you use code: 2024HOODIE</small></p>
         <div class="fees__button-group">
-          <a target="_blank" data-url="https://square.link/u/XyevDdPl?src=embed" href="https://square.link/u/XyevDdPl?src=embed" class="square-checkout-button fees__button">Pay now</a>
+          <a target="_blank" data-url="https://square.link/u/XyevDdPl?src=embed" href="https://square.link/u/XyevDdPl?src=embed" class="square-checkout-button fees__button fees__button--blue">Pay now</a>
         </div>
     </div>
   </div>
