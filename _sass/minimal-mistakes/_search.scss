@@ -65,7 +65,7 @@
     outline: none;
     box-shadow: none;
     background-color: transparent;
-    font-size: $type-size-3;
+    font-size: $type-size-2;
 
     @include breakpoint($large) {
       font-size: $type-size-2;
@@ -88,7 +88,7 @@
 
   .results__found {
     margin-top: 0.5em;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
   }
 
   .archive__item {

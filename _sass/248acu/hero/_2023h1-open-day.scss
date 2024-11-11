@@ -25,7 +25,7 @@
   }
   .page__lead {
     color: white;
-    font-size: $type-size-4;
+    font-size: $type-size-3;
     line-height: 1.1;
   }
   .page__title + .page__lead,
@@ -33,7 +33,7 @@
     margin-top: -1em;
   }
   .btn {
-    font-size: $type-size-5;
+    font-size: $type-size-4;
     animation: transform .2s ease;
     &.btn--link {
       color: white;
