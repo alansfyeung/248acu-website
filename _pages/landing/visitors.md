@@ -13,7 +13,7 @@ redirect_from:
   - /rsvp/
 ---
 
-## 248 ACU Annual Ceremonial Parade, 2023
+## 248 ACU Annual Ceremonial Parade
 
 For adults and children 16+ who are attending as visitors, please fill in and submit this registration form (once per person).
 
