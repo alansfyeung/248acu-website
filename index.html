@@ -109,13 +109,21 @@ entries_layout: grid # for the news
     align-items: center;
     justify-content: center;
     gap: 20px;
-    font-size: 14px;
+    font-size: 1.2em;
     font-weight: bold;
+    text-shadow: 0 0 5px white;
+    background-image: repeating-linear-gradient(
+      45deg,
+      #ffd900,
+      #ffd900 20px,
+      #ffcc00 20px,
+      #ffcc00 40px
+    );
   }
 
-  #rsvp-dec-2023 hr {
-    border-color: #222;
-    border-width: 2px;
+  #rsvp-dec-2023 .btn {
+    margin-bottom: 0;
+    text-decoration: none;
   }
 
   @media (max-width: 768px) {
@@ -123,25 +131,19 @@ entries_layout: grid # for the news
       text-align: center;
       flex-direction: column;
       gap: 10px;
-      font-size: 12px;
-    }
-
-    #rsvp-dec-2023 hr {
-      display: none;
+      font-size: 14px;
     }
   }
 </style>
 
 <div id="rsvp-dec-2023">
-  <hr style="width: 60px;">
   <div>Annual Parade - 8<sup>th</sup> Dec 2024: Visitor Registration Form</div>
   <a class="btn btn--large btn--inverse" href="https://forms.gle/WVq7eQCVK5fxH95E8" target="_blank">Register
     here</a>
-  <hr style="width: 60px;">
 </div>
 
 <article class="headlines" style="margin-bottom: 2em;">
-  <h4 style="font-size: 1.1em">
+  <h4 style="font-size: 1.2em">
     248 Army Cadet Unit City of Sydney (Gadigal) is located at Victoria Barracks, Sydney
     in Paddington with cadets aged 13-18 from local high schools and the wider community.
     <span style="color: #777;">{% include next_intake.html %}</span>
