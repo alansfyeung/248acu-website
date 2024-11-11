@@ -14,12 +14,37 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme-default-mode">
+<link rel="stylesheet" href="{{ '/assets/css/main-dark.css' | relative_url }}" id="theme-dark-mode">
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
 <!-- Toss in jQuery now, so that we can use $() inline -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script>
+  // Function to switch stylesheets based on the preferred color scheme
+  function switchLightDarkTheme() {
+    const lightModeStylesheet = document.getElementById('theme-default-mode');
+    const darkModeStylesheet = document.getElementById('theme-dark-mode');
+
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      // User prefers dark mode
+      lightModeStylesheet.disabled = true;
+      darkModeStylesheet.disabled = false;
+    } else {
+      // User prefers light mode
+      lightModeStylesheet.disabled = false;
+      darkModeStylesheet.disabled = true;
+    }
+  }
+
+  // Listen for changes in the preferred color scheme
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', switchLightDarkTheme);
+
+  // Initial check
+  switchLightDarkTheme();
+</script>
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}

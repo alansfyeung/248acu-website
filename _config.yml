@@ -12,7 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "cadets" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+mm_skin                  : "cadets" # see names in _sass/minimal-mistakes/skins/
+mm_skin_dark             : "dark" # see names in _sass/minimal-mistakes/skins/
 
 # Site Settings
 locale                   : "en-US"
