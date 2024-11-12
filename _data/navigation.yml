@@ -2,11 +2,8 @@
 main:
   - title: About
     url: /about/
-  - title: News and Events
-    url: /latest-news/
   - title: Join Cadets
     url: /join/
-    classes: cta
   - title: Make a payment
     url: /payments/
   - title: Contact Us
@@ -27,13 +24,11 @@ articles:
         url: /team/
       - title: Attendance and Fees
         url: /attendance-fees/
-      - title: Make a payment
-        url: /payments/
       - title: Ranks in the Army Cadets
         url: /ranks-in-the-aac/
-  - title: Join
+  - title: Joining
     children:
-      - title: Join Cadets
+      - title: Enrol in Cadets
         url: /join/
       - title: Volunteer as an Adult
         url: /volunteer/

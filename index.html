@@ -99,49 +99,6 @@ feature_row:
 entries_layout: grid # for the news
 ---
 
-<style>
-  #rsvp-dec-2023 {
-    background: #ffd900;
-    color: #222;
-    padding: 6px;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-    font-size: 1.2em;
-    font-weight: bold;
-    text-shadow: 0 0 5px white;
-    background-image: repeating-linear-gradient(
-      45deg,
-      #ffd900,
-      #ffd900 20px,
-      #ffcc00 20px,
-      #ffcc00 40px
-    );
-  }
-
-  #rsvp-dec-2023 .btn {
-    margin-bottom: 0;
-    text-decoration: none;
-  }
-
-  @media (max-width: 768px) {
-    #rsvp-dec-2023 {
-      text-align: center;
-      flex-direction: column;
-      gap: 10px;
-      font-size: 14px;
-    }
-  }
-</style>
-
-<div id="rsvp-dec-2023">
-  <div>Annual Parade - 8<sup>th</sup> Dec 2024: Visitor Registration Form</div>
-  <a class="btn btn--large btn--inverse" href="https://forms.gle/WVq7eQCVK5fxH95E8" target="_blank">Register
-    here</a>
-</div>
-
 <article class="headlines" style="margin-bottom: 2em;">
   <h4 style="font-size: 1.2em">
     248 Army Cadet Unit City of Sydney (Gadigal) is located at Victoria Barracks, Sydney
@@ -149,6 +106,11 @@ entries_layout: grid # for the news
     <span style="color: #777;">{% include next_intake.html %}</span>
   </h4>
 </article>
+
+<section>
+  <!-- <h3 class="archive__subtitle">Quick Links</h3> -->
+  {% include home__quick_links.html %}
+</section>
 
 <section>
   <h3 class="archive__subtitle">Featured Articles</h3>

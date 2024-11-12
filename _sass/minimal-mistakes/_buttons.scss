@@ -15,7 +15,7 @@
   font-size: $type-size-3;
   font-weight: bold;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none !important;
   border-width: 0;
   border-radius: $border-radius;
   cursor: pointer;
@@ -37,9 +37,7 @@
   (warning, $warning-color),
   (danger, $danger-color),
   (info, $info-color),
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  ("gray", $lighter-gray);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {

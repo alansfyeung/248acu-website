@@ -22,3 +22,12 @@ body.layout--home {
     }
   }
 }
+
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(200px, 1fr));
+  gap: 1em;
+  @include breakpoint($large) {
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+  }
+}
