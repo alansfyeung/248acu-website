@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  og_image: /assets/images/og/248acu-og-parade.jpg
 title: Make a payment to 248 ACU
 tagline: |
   We accept electronic payment for term fees and activity fees, including credit card payments and bank transfers.
