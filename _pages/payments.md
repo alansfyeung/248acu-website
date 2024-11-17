@@ -42,10 +42,16 @@ sidebar:
 <details>
   <summary><h3>Activity Fees </h3></summary>
 
-  <p>
-    No activities are open for payment. Please check back later.
-  </p>
-
+  <div class="fees__payment-link">
+    <div class="fees__box">
+        <p class="fees__box__title">248 ACU Dining In Night, 8th Dec 2024</p>
+        <p class="fees__box__subtitle">Participation open to all cadet members of 248 ACU</p>
+        <p class="fees__box__price"><span class="fees__box__price--amount">$70.00</span> <small>+ processing fee</small></p>
+        <div class="fees__button-group">
+          <a target="_blank" data-url="https://square.link/u/23TdblUr?src=embed" href="https://square.link/u/23TdblUr?src=embed" class="square-checkout-button fees__button">Pay online</a>
+        </div>
+    </div>
+  </div>
 </details>
 
 
