@@ -25,9 +25,18 @@ body.layout--home {
 
 .quick-links {
   display: grid;
-  grid-template-columns: repeat(2, minmax(200px, 1fr));
   gap: 1em;
+  grid-template-columns: repeat(2, minmax(120px, 1fr));
+  font-size: $type-size-6;
+  @include breakpoint($medium) {
+    font-size: $type-size-4;
+  }
   @include breakpoint($large) {
+    font-size: $type-size-5;
     grid-template-columns: repeat(4, minmax(200px, 1fr));
+  }
+
+  &__button {
+    background: rgba($gray, 0.2); 
   }
 }
