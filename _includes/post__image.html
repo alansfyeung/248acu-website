@@ -1,0 +1,11 @@
+{% assign src = include.src | default: include.image.src | absolute_url %}
+{% assign href = include.href | default: include.image.href | default: src | absolute_url %}
+{% assign alt = include.alt | default: include.image.alt | default: include.image.caption %}
+{% assign caption = include.caption | default: include.image.caption | default: include.image.alt %}
+
+<figure class="{{ include.class }}" style="{{ include.style }}">
+    <a href="{{ href }}" title="{{ caption }}">
+        <img src="{{ src }}" alt="{{ alt }}">
+    </a>
+    {% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>
