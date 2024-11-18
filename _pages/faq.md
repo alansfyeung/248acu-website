@@ -24,6 +24,7 @@ __Jump to a question:__
 - [Is cadets dangerous?](#is-cadets-dangerous)  
 - [Can cadets go overseas?](#can-cadets-go-overseas)  
 - [Can I join to help run cadets?](#can-i-join-to-help-run-cadet-activities)  
+- [What activities can cadets attend?](#what-activities-can-cadets-attend)  
 
 ---
 
@@ -67,7 +68,7 @@ Our cadet unit is run by adult volunteers - Army Cadet Staff (ACS), Officers of 
 
 ## What activities can cadets attend?
 
-Cadets will "parade" on Tuesday nights during the school term, as part of a regular training schedule. Additionally, there are extra activities throughout the year, including bivouac weekends where we conduct field exercises, and more. See {% link _pages/activities.md %} for more information.
+Cadets will "parade" on Tuesday nights during the school term, as part of a regular training schedule. Additionally, there are extra activities throughout the year, including bivouac weekends where we conduct field exercises, and more. See {% link _pages/attendance-and-fees.md %} for more information.
 
 ---
 
