@@ -99,6 +99,10 @@
 
   img {
     width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
   }
 }
 
@@ -274,11 +278,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      height: 200px;
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      height: 140px;
     }
   }
 }
