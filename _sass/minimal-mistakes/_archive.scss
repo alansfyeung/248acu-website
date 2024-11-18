@@ -99,10 +99,6 @@
 
   img {
     width: 100%;
-    min-height: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
   }
 }
 
@@ -276,7 +272,16 @@
     }
   }
 
-  .archive__item-teaser {
+  .archive__item-teaser {    
+    > * {
+      width: 100%;
+      position: absolute;
+      display: block;
+      min-height: 100%;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
     @include breakpoint($small) {
       height: 200px;
     }
