@@ -7,9 +7,6 @@ excerpt: The 7-day annual exercise was a first-time experience for many of 248 A
 header:
   teaser: assets/images/2024-10-10-annual-field-exercise-2024/afx2024-6.jpeg
 images:
-  lastday:
-    src: assets/images/2024-10-10-annual-field-exercise-2024/afx2024-1.jpeg
-    caption: Cadets show off their unit shoulder patch on the day of the NSW Bde muster parade.
   tunnel:
     src: assets/images/2024-10-10-annual-field-exercise-2024/afx2024-2.jpeg
     caption: A cadet moves through the tunnel on the SMA obstacle course.
@@ -52,7 +49,6 @@ NSW AAC BDE AFX2024 was a great success for 248 ACU. Whether it was some cadet's
 
 The Australian Army Cadets is a national youth development program that proudly shares the character and values of the Australian Army. It is a partnership between the Australian Army and the community.
 
-{% include post__image.html image=page.images.lastday %}
 {% include post__image.html image=page.images.march %}
 {% include post__image.html image=page.images.truck %}
 {% include post__image.html image=page.images.laptop %}
