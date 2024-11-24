@@ -21,7 +21,7 @@ sidebar:
 </div>
 
 
-<details>
+<details class="fees__group">
   <summary><h3>Term Fees</h3></summary>
 
   <p>
@@ -41,7 +41,7 @@ sidebar:
 </details>
 
 
-<details>
+<details class="fees__group">
   <summary><h3>Activity Fees </h3></summary>
 
   <div class="fees__payment-link">
@@ -57,7 +57,7 @@ sidebar:
 </details>
 
 
-<details>
+<details class="fees__group">
   <summary><h3>Joining Fees</h3></summary>
 
   <p>
@@ -78,7 +78,7 @@ sidebar:
 
 
 
-<details>
+<details class="fees__group">
 
   <summary><h3>Merchandise</h3></summary>
 
@@ -112,6 +112,15 @@ When making bank transfer, please include your child's surname in the descriptio
 - [Frequently asked questions]({% link _pages/faq.md %})
 
 <script>
+  $(function () {
+    $('.fees__group').each(function () {
+      const numItemsInGroup = $(this).find('.fees__button').length;
+      if (numItemsInGroup > 0) {
+        $(this).find('summary').append(`<span class="fees__group__counter">${numItemsInGroup}</span>`);
+      } 
+    });
+  });
+  
   function showCheckoutWindow(e) {
     e.preventDefault();
 
