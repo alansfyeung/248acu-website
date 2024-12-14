@@ -8,7 +8,7 @@ header:
 images:
   leadership-excellence:
     src: assets/images/2024-12-14-annual-parade-awards/2024-annual-parade-1.jpg
-    caption: Allegra Spender MP presents the 248 ACU Leadership and Excellence Award jointly to CDTSGT Billy Clare and CDTLCPL Em Ryan
+    caption: Allegra Spender MP presents the 248 ACU Leadership and Initiative Award jointly to CDTSGT Billy Clare and CDTLCPL Em Ryan
   courage-commitment:
     src: assets/images/2024-12-14-annual-parade-awards/2024-annual-parade-2.jpg
     caption: COL James Field presents the Wheatley VC award for Courage and Commitment to CDTCPL Amelia Moar
@@ -73,3 +73,7 @@ LT(AAC) Campbell Yap received an OC's commendation and a 248 ACU Challenge Coin 
 {% include post__image.html image=page.images.award-1 %}
 {% include post__image.html image=page.images.award-2 %}
 {% include post__image.html image=page.images.award-3 %}
+
+_Photo credit: Austin O'Brien_
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F248acu%2Fposts%2F564199063032464&show_text=true&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
