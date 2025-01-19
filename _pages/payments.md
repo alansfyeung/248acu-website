@@ -4,8 +4,8 @@ header:
   og_image: /assets/images/og/248acu-og-parade.jpg
 title: Make a payment to 248 ACU
 tagline: |
-  We accept electronic payment for term fees and activity fees, including credit card payments and bank transfers.
-description: Make online credit card or EFT payments to 248 ACU for term fees and activity fees
+  We accept electronic payment for annual fees and activity fees, including credit card payments and bank transfers.
+description: Make online credit card or EFT payments to 248 ACU for annual fees and activity fees
 permalink: /payments/
 categories: info payment
 sidebar:
@@ -17,23 +17,22 @@ sidebar:
 
 <div class="well">
   <strong>Our online credit card payments are processed securely through Square.</strong> 
-  A card processing surcharge of 2.2% applies to credit card payments, so that your full amount of fees goes towards supporting us. Thank you for your understanding.
 </div>
 
 
 <details class="fees__group">
-  <summary><h3>Term Fees</h3></summary>
+  <summary><h3>Annual Fees</h3></summary>
 
   <p>
-    Term fees are your regular contributions that enable us to fund our classroom learning, unit-owned field equipment, awards and prizes, and more. All cadets participating at 248 ACU are required to contribute these term fees.
+    Annual fees are your yearly contributions that enable us to fund our classroom learning, unit-owned field equipment, awards and prizes, and more. All cadets participating at 248 ACU are required to contribute these annual fees.
   </p>
 
   <div class="fees__payment-link">
     <div class="fees__box">
-        <p class="fees__box__title">Term Fees - Single Term</p>
-        <p class="fees__box__price"><span class="fees__box__price--amount">$65.00</span> <small>+ processing fee</small></p>
+        <p class="fees__box__title">Annual Fees</p>
+        <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span></p>
         <div class="fees__button-group">
-          <a target="_blank" data-url="https://square.link/u/lNgAjpJP?src=embed" href="https://square.link/u/lNgAjpJP?src=embed" class="square-checkout-button fees__button">Pay Now</a>
+          <a target="_blank" data-url="https://square.link/u/KrKdDTJX?src=embed" href="https://square.link/u/KrKdDTJX?src=embed" class="square-checkout-button fees__button">Pay Now</a>
         </div>
     </div>
   </div>
@@ -46,48 +45,10 @@ sidebar:
 
   <div class="fees__payment-link">
     <div class="fees__box">
-        <p class="fees__box__title">248 ACU Dining In Night, 8th Dec 2024</p>
-        <p class="fees__box__subtitle">Participation open to all cadet members of 248 ACU</p>
-        <p class="fees__box__price"><span class="fees__box__price--amount">$70.00</span> <small>+ processing fee</small></p>
-        <div class="fees__button-group">
-          <a target="_blank" data-url="https://square.link/u/23TdblUr?src=embed" href="https://square.link/u/23TdblUr?src=embed" class="square-checkout-button fees__button">Pay online</a>
-        </div>
-    </div>
-  </div>
-</details>
-
-
-<details class="fees__group">
-  <summary><h3>Joining Fees</h3></summary>
-
-  <p>
-    Joining fees are a once-off payment when your child joins 248 ACU. The amount includes: $200.00 refundable deposit, unit undershirt, training platoon patches, and costs for the recruit basic training weekend. 
-  </p>
-
-  <div class="fees__payment-link">
-    <div class="fees__box">
-        <p class="fees__box__title">Joining Fees</p>
-        <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span> <small>+ processing fee</small></p>
+        <p class="fees__box__title">Basic training weekend and uniform deposit</p>
+        <p class="fees__box__price"><span class="fees__box__price--amount">$300.00</span></p>
         <div class="fees__button-group">
           <a target="_blank" data-url="https://square.link/u/Y4rlINVY?src=embed" href="https://square.link/u/Y4rlINVY?src=embed" class="square-checkout-button fees__button">Pay now</a>
-        </div>
-    </div>
-  </div>
-
-</details>
-
-
-
-<details class="fees__group">
-
-  <summary><h3>Merchandise</h3></summary>
-
-  <div class="fees__payment-link">
-    <div class="fees__box">
-        <p class="fees__box__title">Hoodie pre-order 2024</p>
-        <p class="fees__box__price"><span class="fees__box__price--amount">$60.00</span>  <small>when you use code: 2024HOODIE</small></p>
-        <div class="fees__button-group">
-          <a target="_blank" data-url="https://square.link/u/XyevDdPl?src=embed" href="https://square.link/u/XyevDdPl?src=embed" class="square-checkout-button fees__button fees__button--blue">Pay now</a>
         </div>
     </div>
   </div>
@@ -102,7 +63,7 @@ sidebar:
 
 <small>No surchage is applied or required when making payments through bank transfer/EFT.</small>
 
-When making bank transfer, please include your child's surname in the description as well as the words "Term Fees". We encourage you to set up a scheduled payment through your online banking to avoid a missed payment.
+When making bank transfer, please include your child's surname in the description as well as the words "Annual Fees".
 
 ---
 
