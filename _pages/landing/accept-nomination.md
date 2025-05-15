@@ -1,8 +1,8 @@
 ---
 layout: single
 title: How to accept activity nominations
-tagline: Accepting your nomination is the first step in attending a Cadet activity
-description: Find out how to accept your CadetNet activity nomination task, or 
+tagline: Find out how to accept your CadetNet activity nomination task
+description: Accepting your nomination is the first step in attending a Cadet activity
 permalink: /accept-nomination/
 categories: info
 sidebar:
