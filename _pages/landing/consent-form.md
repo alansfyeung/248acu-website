@@ -22,9 +22,13 @@ If you have accidentally uploaded the wrong file, this can be fixed - see below.
 
 ## Where do I find my consent form?
 
-The consent form can be found on in CadetNet, on the activity's overview page. After downloading the form, it should be filled in and signed by a parent/guardian. Then the upload button should be used to submit the consent form.
+The consent form can be found on in CadetNet, on the activity's overview page. After downloading the form, it should be filled in and signed by a parent/guardian. Then the upload button should be used to submit the consent form. __Note: All pages of the consent form must be included in the uploaded file__.
 
 ![Location of the consent form download and upload buttons]({{"/assets/images/consent-form/activity-consent-1.jpg" | absolute_url}})
+
+## Can I upload multiple files for the consent form?
+
+No, you cannot. This is a limitation of the CadetNet system. If you have mistakenly only uploaded one page of the signed consent form, then follow the instructions below to remove that file, and re-upload again. 
 
 ## I've uploaded the wrong consent form
 
