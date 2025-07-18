@@ -26,7 +26,7 @@ Similar to school, we follow a learning and training continuum. Through attendin
 
 ## Parade nights 
 
-Cadets are expected to attend every parade night, occurring weekly during the school term on Tuesday nights. On parade nights, a mixture of classroom lessons and practical/physical lessons are taught to cadets. Topics vary greatly, from basics like drill, military ranks, first aid, navigation... through to advanced topics such as survival, STEM packages and leadership.
+Cadets are expected to attend every parade night, occurring weekly during the school term on Thursday nights. On parade nights, a mixture of classroom lessons and practical/physical lessons are taught to cadets. Topics vary greatly, from basics like drill, military ranks, first aid, navigation... through to advanced topics such as survival, STEM packages and leadership.
 
 ## Basic Training Weekend
 

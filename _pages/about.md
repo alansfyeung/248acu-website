@@ -38,7 +38,7 @@ Cadets within 248 ACU are organised into platoons, depending on the level of tra
 
 ## Parade Nights
 
-248 ACU parades during the school term, weekly on Tuesday nights. This is where our cadets do the majority of their learning and skills development, and regular attendance is a must. During parade nights, cadets wear general duty DPCU uniform, and uphold the customs and traditions of the AAC and the Australian Army whilst they are "on duty". 
+248 ACU parades during the school term, weekly on Thursday nights. This is where our cadets do the majority of their learning and skills development, and regular attendance is a must. During parade nights, cadets wear general duty DPCU uniform, and uphold the customs and traditions of the AAC and the Australian Army whilst they are "on duty". 
 
 ![On parade]({{"/assets/images/parade-night-admin-parade.jpg" | absolute_url}})
 

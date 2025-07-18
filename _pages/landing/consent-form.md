@@ -14,7 +14,7 @@ redirect_from:
   - /consent/
 ---
 
-A signed consent form is required to attend any cadet activities, such as weekend bivouacs or Tuesday night parades. 
+A signed consent form is required to attend any cadet activities, such as weekend bivouacs or Thursday night parades. 
 
 If you have accidentally uploaded the wrong file, this can be fixed - see below. 
 
