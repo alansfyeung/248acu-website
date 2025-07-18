@@ -40,7 +40,7 @@ By joining cadets during high school, this _does not_ obligate you to join the A
 
 ## Do you need to attend a certain high school to join cadets?
 
-To join a community-based unit (like 248 ACU), you may attend any high school in the local area. Unlike a (private) school-based cadet unit, we don't restrict you from joining! You just need to be able to travel to Victoria Barracks, Sydney in Paddington every Tuesday night during school term. [Joining or transferring is easy]({% link _pages/join.md %}).
+To join a community-based unit (like 248 ACU), you may attend any high school in the local area. Unlike a (private) school-based cadet unit, we don't restrict you from joining! You just need to be able to travel to Victoria Barracks, Sydney in Paddington every Thursday night during school term. [Joining or transferring is easy]({% link _pages/join.md %}).
 
 This is great if you attend a high school in the Inner West, Sydney CBD or Eastern Suburbs areas like Inner Sydney High School, Rose Bay Secondary College, Randwick Boys High School, Randwick Girls High School, South Sydney High School, Matraville Sports High School, Sydney Secondary College Blackwattle Bay, Alexandria Park Community School, JJ Cahill Memorial High School, Newtown High School of the Performing Arts, Dulwich High School of Visual Arts and Design, or Marrickville High School. 
 
@@ -68,7 +68,7 @@ Our cadet unit is run by adult volunteers - Army Cadet Staff (ACS), Officers of 
 
 ## What activities can cadets attend?
 
-Cadets will "parade" on Tuesday nights during the school term, as part of a regular training schedule. Additionally, there are extra activities throughout the year, including bivouac weekends where we conduct field exercises, and more. See {% link _pages/attendance-and-fees.md %} for more information.
+Cadets will "parade" on Thursday nights during the school term, as part of a regular training schedule. Additionally, there are extra activities throughout the year, including bivouac weekends where we conduct field exercises, and more. See {% link _pages/attendance-and-fees.md %} for more information.
 
 ---
 
