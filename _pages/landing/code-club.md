@@ -4,7 +4,7 @@ header:
   og_image: /assets/images/landing/code-club/og-aac-code-club.jpg
 title: NSW AAC Code Club STEM Pilot 2025
 tagline: Find out about the AAC Code Club and nominate to join!
-description: Learn 
+description: \#GetKidsCoding - As cadets, you'll get hands-on with digital making skills including coding, design, and games dev. You'll gain skills that will help you compete in national competitions
 permalink: /code-club/
 categories: code-club
 redirect_from:
