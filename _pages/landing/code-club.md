@@ -1,7 +1,9 @@
 ---
 layout: single
-title: NSW AAC Code Club - STEM Pilot 2025
-tagline: Find out about the AAC Code Club and submit your EOI
+header:
+  og_image: /assets/images/landing/code-club/og-aac-code-club.jpg
+title: NSW AAC Code Club STEM Pilot 2025
+tagline: Find out about the AAC Code Club and nominate to join!
 description: Learn 
 permalink: /code-club/
 categories: code-club
@@ -49,7 +51,7 @@ Cadets who complete the Code Club pathway requirements are eligible to receive C
 
 __Interested? Follow the link below to nominate yourself for this activity on CadetNet.__
 
-Note: This pilot course activity will be held in Parramatta, Sydney. If you live outside of Sydney, once you nominate, we will contact you to discuss travel options. 
+After you nominate, you will initially be placed on the 'wait list'. The final number of cadet participants is _strictly limited_. Read the [CadetNet activity description](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/240408/overview) for further information about the selection process. 
 
 > Cadet nominations are open from 19 Sep to 18 Oct 2025. 
 > <br><small style="font-size: 0.8em;">If the link doesn't work, login to CadetNet first, then try again.</small>
