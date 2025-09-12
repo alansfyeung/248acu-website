@@ -13,20 +13,12 @@ sidebar:
 248 ACU is led by adult volunteers from the local community - [consider volunteering!]({% link _pages/volunteer.md %})
 {:.well}
 
-#### Officer Commanding 
-Captain (AAC) Alan Yeung 
+#### Officer Commanding  
+- Captain (AAC) Romain Francez - Officer Commanding
 
-#### Administration Officer
-Lieutenant (AAC) Romain Francez
-
-#### Training Officer
-Lieutenant (AAC) Campbell Yap
-
-#### Assistant Training Officer 
-Second Lieutenant (AAC) David Smyth
-
-#### Quartermaster
-Position Vacant
+#### Adult Cadet Staff
+- Lieutenant (AAC) David Smyth
+- Second Lieutenant (AAC) Vernon Caddick
 
 
 
