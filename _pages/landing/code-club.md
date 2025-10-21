@@ -15,7 +15,7 @@ redirect_from:
 
 ![AAC Code Club, NSW STEM Pilot, launching 1-2 Nov 2025]({{"/assets/images/landing/code-club/aac-code-club-header.jpg" | absolute_url}})
 
-> Cadet nominations are open from 19 Sep to 18 Oct 2025. 
+> Cadet nominations are open from 19 Sep ~~to 18 Oct 2025~~ (nominations have been extended! Nominate now!) 
 > <br><small style="font-size: 0.8em;">If the link doesn't work, login to CadetNet first, then try again.</small>
 > <br><br>
 > [Nominate now](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/240408/overview){: .btn .btn--success target="_blank"}
