@@ -2,7 +2,7 @@
 layout: single
 header:
   og_image: /assets/images/landing/code-club/og-aac-code-club.jpg
-title: NSW AAC Code Club STEM Pilot 2025
+title: NSW AAC Code Club - STEM activity for youth 
 tagline: Find out about the AAC Code Club and nominate to join!
 description: \#GetKidsCoding - As cadets, you'll get hands-on with digital making skills including coding, design, and games dev. You'll gain skills that will help you compete in national competitions
 permalink: /code-club/
@@ -13,50 +13,40 @@ redirect_from:
 
 [🚀 View and share the AAC Code Club Launch Poster]({% link _pages/shortlink/code-club-poster.md %}){: target="_blank"}
 
-![AAC Code Club, NSW STEM Pilot, launching 1-2 Nov 2025]({{"/assets/images/landing/code-club/aac-code-club-header.jpg" | absolute_url}})
+![AAC Code Club, NSW 1st and 2nd Bde]({{"/assets/images/landing/code-club/aac-code-club-header.jpg" | absolute_url}})
 
-> Cadet nominations are open from 19 Sep ~~to 18 Oct 2025~~ (nominations have been extended! Nominate now!) 
+
+## Nominations and attendance
+
+__Preferred:__ Directly nominate online through your CadetNet account
+__Alternate:__ If you cannot access CadetNet, contact your unit ACS (officers) and ask them to read the [activity overview page](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/276909/overview).
+
+> Cadet nominations are open for 2026
 > <br><small style="font-size: 0.8em;">If the link doesn't work, login to CadetNet first, then try again.</small>
 > <br><br>
-> [Nominate now](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/240408/overview){: .btn .btn--success target="_blank"}
-
+> [Nominate on CadetNet](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/276909/overview){: .btn .btn--success target="_blank"}
 
 ## What is the AAC Code Club?
 
 <img src="{{'/assets/images/landing/code-club/nsw-aac-code-club-usp.png' | absolute_url}}" alt="Activity Shoulder Patch for NSW AAC Code Club" style="float: left; margin: 1em; margin-left: 0;">
 
-For the first time, the AAC is hosting Code Club as an elective activity for cadets to participate in. As part of the AAC's evolving cyber curriculum, you'll learn to code starting from basic principles, and if you're already familiar with code, we'll get you started on more advanced projects. Not only could coding skills lead to a rewarding career in tech, the Australian Defence Force (ADF) also is getting serious about the [cyber domain](https://www.defence.gov.au/news-events/news/2024-08-09/new-era-cyber-domain){: target="_blank"}, and so it's a great time for cadets to follow that lead and upskill in code! 
+Code Club is an elective activity for ALL cadets in NSW 1st and 2nd Brigades. You'll learn to code starting from basic principles, and if you're already familiar with code, we'll get you started on more advanced projects. Not only could coding skills lead to a rewarding career in tech, the Australian Defence Force (ADF) also is getting serious about the [cyber domain](https://www.defence.gov.au/news-events/news/2024-08-09/new-era-cyber-domain){: target="_blank"}, and so it's a great time for cadets to follow that lead and upskill in code! 
 
 ![AAC Code Club projects include Python, HTML/CSS, Scratch, micro:bit, Raspberry Pi, Blender, Unity, and more]({{"/assets/images/landing/code-club/aac-code-club-projects.jpg" | absolute_url}})
 
-## What's happening in November 2025?
 
-In November, NSW AAC Code Club will launch as a 'pilot course', a first-time trial where cadets can try out Code Club activities. 
-- You'll be able to choose Code Club pathways that interests you. 
-- There will be subject matter experts to teach you the concepts, and university student volunteer code-buddies to help you solve coding problems and level up your skills.
-- Hear from and ask questions to our guest speakers from NSW Police Force, University of Technology Sydney, and ADF Careers.
-
-This November's Code Club course consists of: 
-- __Session 1:__ Launch event - mandatory weekend overnight attendance - 01-02 November 2025
-- __Sessions 2-4:__ Virtual coding sessions - to continue completing your pathways - 6, 13 and 20 November 2025 
-
-Cadets who complete the Code Club pathway requirements are eligible to receive Code Club certificates, and a unique personalised identification patch. 
-
-<div>
-  <img src="{{'/assets/images/landing/code-club/code-club-usp-pers-1.png' | absolute_url}}" alt="Identification Patch awarded after completion of Code Club pathways">
-  <img src="{{'/assets/images/landing/code-club/code-club-usp-pers-2.png' | absolute_url}}" alt="Identification Patch awarded after completion of Code Club pathways">
-</div>
+![Code Club 2025 image]({{"/assets/images/landing/code-club/aac-code-club-2025.jpg" | absolute_url}})
 
 <br>
 
 __Interested? Follow the link below to nominate yourself for this activity on CadetNet.__
 
-After you nominate, you will initially be placed on the 'wait list'. The final number of cadet participants is _strictly limited_. Read the [CadetNet activity description](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/240408/overview) for further information about the selection process. 
+After you nominate, you will initially be placed on the 'wait list'. Read the [CadetNet activity description](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/276909/overview) for further information about the selection process. 
 
-> Cadet nominations are open from 19 Sep to 18 Oct 2025. 
+> Cadet nominations are open for 2026
 > <br><small style="font-size: 0.8em;">If the link doesn't work, login to CadetNet first, then try again.</small>
 > <br><br>
-> [Nominate now](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/240408/overview){: .btn .btn--success target="_blank"}
+> [Nominate on CadetNet](https://apps.cadetnet.gov.au/v5/ui/index.html#/activities/276909/overview){: .btn .btn--success target="_blank"}
 
 ![NSW AAC Cadets on STEM Camp explore a microprocessor programming game and a Raspberry Pi Pico]({{"/assets/images/landing/code-club/nsw-aac-stem-cadets-combined.jpg" | absolute_url}})
 
@@ -83,10 +73,6 @@ After you nominate, you will initially be placed on the 'wait list'. The final n
 
 ## Enquiries
 
-__Cadets:__ please follow instructions on the CadetNet activity page description. 
-
-For media enquiries, please contact MAJ(AAC) Tracey Smith at _Tracey.Smith1@armycadets.gov.au_
-
-To volunteer as an adult participant, please contact CAPT(AAC) Alan Yeung at _Alan.Yeung@armycadets.gov.au_
+Please follow instructions on the CadetNet activity page description. 
 
 ![AAC Code Club is brought to you by the Australian Army Cadets, and Code Club Australia powered by the Telstra Foundation. It is supported by AusLeap UTS Student Volunteering and the UTS SOUL Award]({{"/assets/images/landing/code-club/aac-code-club-footer.png" | absolute_url}})
